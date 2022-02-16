@@ -1,4 +1,4 @@
-# Lab06 - Invatare automata - metode de evaluare  <img src="ants.jpg" width="100">
+# Lab06 - Invatare automata - metode de evaluare  :+1: or :-1:
 
 
 
