@@ -41,25 +41,33 @@ Se vor normaliza datele de antrenament si test.
 🏵️ Cerinte opționale
 
 Rezolvarea unei probleme de regresie prin:
--	implementare regresie multi-target (cu mai multe output-uri) – sugestii:
+- implementare regresie multi-target (cu mai multe output-uri) – sugestii:
     -	outputurile sa fie independente (de ex pe setul de date din sklearn.datasets pot folosi datele psyho din linnerud)
     - outputurile sa fie dependente (aici s-ar putea folosi un regressor gata antrenat – gen yolo (https://pjreddie.com/darknet/yolo/) – pentru a prezice coordonatele bounding box-urilor care încadrează obiectele recunoscute în imagini; trebuie studiat cum se evaluează dacă acele BBs sunt bune sau nu; focusul este de fapt pe interpretarea outputului dat de regressor, nu pe modul în care se antrenează regressorul)
 
 
 ## :hourglass: Termen de predare 
+
 Laborator 9
 
 ## :moneybag: Evaluarea
 
 Punctajele acordate:
-•	Rezolvarea problemei cu tool – 50 puncte
-•	Rezolvarea problemei cu cod propriu, cazul regresiei univariate – 100 puncte
-•	Rezolvarea problemei cu cod propriu, cazul regresiei multi-variate – 50 puncte
-•	Normalizarea datelor – cod propriu 100 puncte
-•	Rezolvarea cerințelor opționale – maxim 200 puncte
+
+- Rezolvarea problemei cu tool – 50 puncte
+
+- Rezolvarea problemei cu cod propriu, cazul regresiei univariate – 100 puncte
+
+- Rezolvarea problemei cu cod propriu, cazul regresiei multi-variate – 50 puncte
+
+- Normalizarea datelor – cod propriu 100 puncte
+
+- Rezolvarea cerințelor opționale – maxim 200 puncte
 
 Notă: 
+
 - punctajul maxim acumulat pentru acest laborator este 500 puncte.
+
 - punctajul minim pentru ca o tema predata sa fie valida este 100 puncte.  
 
 

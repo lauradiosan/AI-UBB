@@ -1,5 +1,4 @@
-# Lab11 - Rezolvarea unor probleme de clustering prin metode de învățare automată  <img src="images/ann.jpeg" width="150">
-
+# Lab11 - Rezolvarea unor probleme de clustering prin metode de învățare automată 
 
 
 ## :microscope: Obiective 
@@ -26,13 +25,9 @@ Evaluarea sistemelor care învaţă singure. Metrici de performanță.
 Se doreste clusterizarea unor mesaje in doua categorii (spam si ham). Pentru fiecare mesaj se cunoaste textul aferent lui. Să se rezolve problema, implementându-se rutine pentru clusterizare cu k-means a mesajelor.
 
 2. **Retea sociala: ce fel de mesaje ai postat?**
-
 Mai tii minte ca tocmai ti-ai inceput munca ca si software developer la Facebook si ca faci parte din echipa care se ocupa cu partea de continut a platformei? 
-
-Utilizatorii sunt foarte incantati de noul algoritm de detectie a filtrelor in poze, asadar poti sa te ocupi de o noua functionalitate care ar face platforma mai atractiva. Utilizatorii posteaza o gama larga de mesaje, iar in feed-urile lor apar de multe ori prea multe mesaje negative si prea putine pozitive. Facebook incearca o noua functionalitate prin care sa detecteze sentimentele dintr-un mesaj si sa filtreze feed-urile utilizatorilor.
-
-Task-ul tau este sa implementezi un algoritm care poate recunoaste sentimentele dintr-un text (pozitiv, negativ, ura, rasism, etc.)
-
+Utilizatorii sunt foarte incantati de noul algoritm de detectie a filtrelor in poze, asadar poti sa te ocupi de o noua functionalitate care ar face platforma mai atractiva. Utilizatorii posteaza o gama larga de mesaje, iar in feed-urile lor apar de multe ori prea multe mesaje negative si prea putine pozitive. Facebook incearca o noua functionalitate prin care sa detecteze sentimentele dintr-un mesaj si sa filtreze feed-urile utilizatorilor. 
+Task-ul tau este sa implementezi un algoritm care poate recunoaste sentimentele dintr-un text (pozitiv, negativ, ura, rasism, etc.). 
 Team leaderul echipei de ML iti propune urmatorul plan de lucru 
 - devoltarea, antrenarea si testarea unui algoritm de tip k-means folosind data de tip numeric (de ex datele cu irisi) 
 - devoltarea, antrenarea si testarea unui algoritm de tip k-means folosind data de tip text
