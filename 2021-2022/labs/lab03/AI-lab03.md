@@ -19,7 +19,7 @@ Formularea problemelor ca probleme de căutare şi identificarea modalităţilor
 
 ## :bulb: Probleme
 
-1. Identificarea punctului de optim a unei functii reale - [Demo1](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab3/GAs.ipynb#Demo1)
+1. Identificarea punctului de optim a unei functii reale - Demo1
 
 
 2. Problema identificării comunităților într-o rețea complexă. A se consulta descrierea de la laboratorul 2 - Tema
