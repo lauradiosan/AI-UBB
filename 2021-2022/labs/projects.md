@@ -1,7 +1,7 @@
 
 # Proiecte AI 2021-2022
 
-1. [Project *Speech to text*](#markdown-header-speech-to-text)
+1. [Project *Speech to text*](#speech-to-text)
 2. [Project *Sentiment analysis in voice*](#markdown-header-sentiment-analysis-in-voice)
 3. [Project *Sentiment analysis in text*](#markdown-header-sentiment-analysis-in-text)
 4. [Project *Image processing for dental data*](#markdown-header-image-processing-for-dental-data)
