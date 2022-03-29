@@ -2,14 +2,14 @@
 # Proiecte AI 2021-2022
 
 1. [Project *Speech to text*](#speech-to-text)
-2. [Project *Sentiment analysis in voice*](#markdown-header-sentiment-analysis-in-voice)
-3. [Project *Sentiment analysis in text*](#markdown-header-sentiment-analysis-in-text)
-4. [Project *Image processing for dental data*](#markdown-header-image-processing-for-dental-data)
-5. [Project *Image processing for prostate cancer**](#markdown-header-image-processing-for-prostate-cancer)
-6. [Project *Image processing for bladder cancer*](#markdown-header-image-processing-for-bladder-cancer)
-7. [Project *3D reconstruction*](#markdown-header-3D-reconstructiona)
-8. [Project *Image classification of batteries*](#markdown-header-image-classification-of-batteries)
-[Project *Image processing for dental data*](#markdown-header-image-processing-for-dental-data)
+2. [Project *Sentiment analysis in voice*](#sentiment-analysis-in-voice)
+3. [Project *Sentiment analysis in text*](#sentiment-analysis-in-text)
+4. [Project *Image processing for dental data*](#image-processing-for-dental-data)
+5. [Project *Image processing for prostate cancer**](#image-processing-for-prostate-cancer)
+6. [Project *Image processing for bladder cancer*](#image-processing-for-bladder-cancer)
+7. [Project *3D reconstruction*](#3D-reconstructiona)
+8. [Project *Image classification of batteries*](#image-classification-of-batteries)
+[Project *Image processing for dental data*](#image-processing-for-dental-data)
 
 ## Speech to text
 
