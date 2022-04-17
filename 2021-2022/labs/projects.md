@@ -9,7 +9,7 @@
 6. [Project *Image processing for bladder cancer*](#image-processing-for-bladder-cancer)
 7. [Project *3D reconstruction*](#3D-reconstructiona)
 8. [Project *Image classification of batteries*](#image-classification-of-batteries)
-[Project *Image processing for dental data*](#image-processing-for-dental-data)
+
 
 ## Speech to text
 
@@ -323,6 +323,45 @@ Identificarea dintilor si leziunilor in imagini dentare
 - Dandage, H. K., Lin, K. M., Lin, H. H., Chen, Y. J., & Tseng, K. S. (2021). Surface defect detection of cylindrical lithium-ion battery by multiscale image augmentation and classification. International Journal of Modern Physics B, 35(14n16), 2140011.
 - Dandage, H. K., Lin, K. M., Lin, H. H., Chen, Y. J., & Tseng, K. S. (2021). Surface defect detection of cylindrical lithium-ion battery by multiscale image augmentation and classification. International Journal of Modern Physics B, 35(14n16), 2140011.
 - Sheller, M. J., Edwards, B., Reina, G. A., Martin, J., Pati, S., Kotrotsou, A., ... & Bakas, S. (2020). Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data. Scientific reports, 10(1), 1-12.
+
+
+### Coordonator
+- ???
+
+
+
+##  Classification of batteries
+
+
+### Scop
+- recunoasterea defectelor de fabricatie la bateriile de masina
+
+### Ideea de baza
+
+- identificarea defectelor de fabricate la diferite produse, precum bateriile, poate ajuta la eficientizarea liniilor de productie.
+
+
+### TODOlist
+
+1. Iteratia 1
+- analiza datelor
+- clasificarea baterii (in defecte sau nu) folosind un model de clasificare antrenat pe setul de date furnizat
+- evaluarea performantei clasificarii
+
+2. Iteratia 2
+- imbunatatirea modelului de clasificare a bateriilor folosind un model bazat pe active learning 
+- evaluarea performantei clasificarii
+- compararea abordarii din iteratia 1 cu cea din iteratia 2
+
+
+### Data
+- [NIdata](https://github.com/lauradiosan/AI-UBB/tree/main/2021-2022/labs/dataProjects/batteriesRawData.csv)
+
+### Bibliografie
+- Sener, O., & Savarese, S. (2017). Active learning for convolutional neural networks: A core-set approach. arXiv preprint arXiv:1708.00489.
+- Yoo, D., & Kweon, I. S. (2019). Learning loss for active learning. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 93-102).
+- Ren, P., Xiao, Y., Chang, X., Huang, P. Y., Li, Z., Gupta, B. B., ... & Wang, X. (2021). A survey of deep active learning. ACM Computing Surveys (CSUR), 54(9), 1-40.
+- Aggarwal, U., Popescu, A., & Hudelot, C. (2020). Active learning for imbalanced datasets. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1428-1437).
 
 
 ### Coordonator
