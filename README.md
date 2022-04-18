@@ -30,8 +30,8 @@
 | S6 |	**Invatare automata** supervizata - algoritmi (ANN)   [] | | Evaluare ML [md](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab06/AI-lab06.md) [git](https://classroom.github.com/a/1ol-j7tm)|
 | S7 | **Invatare automata** - Metoda celor mai mici patrate | | Gradient Descrescator [md](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab07/AI-lab07.md) [git](https://classroom.github.com/a/rXZHECJv)|
 | S8 | **Invatare automata** supervizata - algoritmi (ANN - partea 2 ) []	| |  |
-| S9 | **Invatare automata** supervizata - algoritmi (SVM, GP, kNN, DT) []	| | Regresie logisitca |
-| S10 |	**Invatare automata** nesupervizata []	| | ANN |
+| S9 | **Invatare automata** supervizata - algoritmi (SVM, GP, kNN, DT) []	| | Regresie logisitca [md](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab08/AI-lab08.md) [git](https://classroom.github.com/a/BAWXnxk2) |
+| S10 |	**Invatare automata** nesupervizata []	| | ANN [md](https://github.com/lauradiosan/AI-UBB/blob/main/2021-2022/labs/lab09/AI-lab09.md)[git](https://classroom.github.com/a/B-B3PGBk)|
 | S11 | **Sisteme de cunostinte** - Sisteme bazate pe reguli în medii certe [] si incerte [] | * capitolul III din S. Russell, P. Norvig, Artificial Intelligence: A Modern Approach, Prentice Hall, 1995 <br> * capitolul 4 şi 5 din H.F. Pop, G. Şerban, Inteligenţă artificială, Cluj Napoca, 2004 <br> * capitolul 2 din Adrian A. Hopgood, Intelligent Systems for Engineers and Scientists, CRC Press, 2001 <br> * capitolul 6 şi 7 din C. Groşan, A. Abraham, Intelligent Systems: A Modern Approach, Springer, 2011 <br> * capitolul V din S. Russell, P. Norvig, Artificial Intelligence: A Modern Approach, Prentice Hall, 1995 <br> * capitolul 3 din Adrian A. Hopgood, Intelligent Systems for Engineers and Scientists, CRC Press, 2001 <br> capitolul 8 şi 9 din C. Groşan, A. Abraham, Intelligent Systems: A Modern Approach, Springer, 2011 | | kMeans |
 | S12 | Aplicatii [] | |	Emotions |
 | S13 | | |	 	 	User analytics |
