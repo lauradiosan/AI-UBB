@@ -13,5 +13,5 @@
 - Alexandru Pirvu [link](https://www.linkedin.com/in/alexandru-pirvu-7a8b4191/)
 - Matyas Kuti [webpage]()
 - Mircea Suceveanu [link]()
-- Laura Diosan [webpage](www.cs.ubbcluj.ro/~lauras)
+- Laura Diosan [webpage](https://www.cs.ubbcluj.ro/~lauras)
 
