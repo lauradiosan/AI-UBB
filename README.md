@@ -11,7 +11,7 @@
 - Gabi Mircea [webpage]()
 - Bogdan Mursa [webpage](https://sites.google.com/view/mursa-bogdan/)
 - Alexandru Pirvu [link](https://www.linkedin.com/in/alexandru-pirvu-7a8b4191/)
-- Matyas Kuti [webpage]()
+- Matyas Kuti [link](https://www.linkedin.com/in/kkmatyas/)
 - Mircea Suceveanu [link]()
 - Laura Diosan [webpage](https://www.cs.ubbcluj.ro/~lauras)
 
