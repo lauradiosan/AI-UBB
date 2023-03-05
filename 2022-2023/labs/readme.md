@@ -1,2 +1,2 @@
 
-Laboratoare AI 2021-2022
+Laboratoare AI 2022-2023
