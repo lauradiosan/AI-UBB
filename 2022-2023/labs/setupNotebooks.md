@@ -1,8 +1,7 @@
 # Getting Started with Jupyter Notebook
 
-The OpenDS4All curricular modules are targeted at Jupyter Notebook (or JupyterLab).  We include both sample code and lecture notebooks to illustrate basic concepts.
 
-This guide, which can be used either by the instructional staff or students, focuses on how to set up a Jupyter Notebook environment for the class, and it has two main parts:
+This guide focuses on how to set up a Jupyter Notebook environment for the class, and it has two main parts:
 
 1. Instructions for setting up Jupyter Notebook on a commercial cloud-hosted environment (Section 1).
    
