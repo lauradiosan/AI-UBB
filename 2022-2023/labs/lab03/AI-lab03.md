@@ -59,7 +59,7 @@ Laborator 4
 
 Punctajele acordate (in funcție de seturile de date folosite) sunt:
 -	Seturi de date indicate in documentatie - maxim 200 puncte (50 puncte / retea – sunt 4 retele in arhiva real-networks.zip) 
--	Seturi de date identificate de student – maxim 200 puncte (50 puncte / retea)
+-	Seturi de date identificate de student / profesor – maxim 200 puncte
 - functii de fitnes diferite de modularitate - maxim 100 puncte (50 puncte / functie)
 
 
