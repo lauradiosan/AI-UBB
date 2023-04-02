@@ -1,4 +1,4 @@
-# Lab08 - Rezolvarea unor probleme de regresie prin metode de învățare automată  <img src="images/regression.png" width="200">
+# Lab07 - Rezolvarea unor probleme de regresie prin metode de învățare automată  <img src="images/regression.png" width="200">
 
 
 
@@ -48,7 +48,7 @@ Rezolvarea unei probleme de regresie prin:
 
 ## :hourglass: Termen de predare 
 
-Laborator 9
+Laborator 8
 
 ## :moneybag: Evaluarea
 
