@@ -1,4 +1,4 @@
-# Lab07 - Rezolvarea unor probleme de regresie prin metode de învățare automată  <img src="images/regression.png" width="200">
+# Lab06 - Rezolvarea unor probleme de regresie prin metode de învățare automată  <img src="images/regression.png" width="200">
 
 
 
@@ -42,7 +42,7 @@ Specificaţi, proiectaţi, implementaţi si testati un algoritm de predicție ba
 Studiul comportamentului algoritmului de predictie pentru date corelate sau incomplete.
 
 ## :hourglass: Termen de predare 
-Laborator 8
+Laborator 7
 
 ## :moneybag: Evaluarea
 
