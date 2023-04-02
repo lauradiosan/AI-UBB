@@ -31,10 +31,10 @@ Folsind datele aferente anului 2017 [link](https://www.kaggle.com/unsdsn/world-h
 ## :memo:  Cerinte 
 
 Specificaţi, proiectaţi, implementaţi si testati cate un algoritm de predicție bazat pe:
-- metoda gradientului descrescator stocastic (demo) - please check the [notebook](SGD\AI-lab08-linRegressionSGD.ipynb)
+- metoda gradientului descrescator stocastic (demo) - please check the [notebook](SGD/AI-lab08-linRegressionSGD.ipynb)
 - metoda gradientului descrescator bazat pe batch-uri, cu tool/API si/sau cod propriu (tema).
 
-Se vor normaliza datele de antrenament si validare - please check the [notebook](dataNormalisation\AI-lab07-dataNormalisation.ipynb). 
+Se vor normaliza datele de antrenament si validare - please check the [notebook](dataNormalisation/AI-lab07-dataNormalisation.ipynb). 
  
 
 
