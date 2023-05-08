@@ -1,5 +1,5 @@
 
-# Proiecte AI 2021-2022
+# Proiecte AI 2022-2023
 
 <details>
     <summary> 1. Project Image processing for prostate cancer </summary>
