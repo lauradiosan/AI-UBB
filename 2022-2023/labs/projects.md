@@ -169,7 +169,6 @@ Identificarea dintilor si leziunilor in imagini dentare
 ### Ideea de baza
 - procesarea automata a imaginilor medicale dentare poate fi foarte utila atat medicilor, cat si pacientilor. Identificarea dintilor si a leziunilro in aceste imagini reprezinta baza dezvoltarii unor aplicatii de screening automat a starii de sanatate a dintilor.
 
-
 ### TODOlist
 1. Iteratia 1
 - analiza datelor
@@ -191,10 +190,46 @@ Identificarea dintilor si leziunilor in imagini dentare
 - Lu, Y., Chen, Y., Zhao, D., Liu, B., Lai, Z., & Chen, J. (2020). CNN-G: Convolutional neural network combined with graph for image segmentation with theoretical analysis. IEEE Transactions on Cognitive and Developmental Systems, 13(3), 631-644.
 
 
+
 </details>
 
+
 <details>
-    <summary> 6. Project Smart agriculture </summary>
+    <summary> 6. Project Image processing for Emergency Room </summary>
+
+### Scop
+Identificarea problemelor medicale ale plamanilor in ecografii
+
+### Ideea de baza
+- procesarea automata a imaginilor medicale de tip ecografii este foarte utila in medicina de urgenta. Clasificarea automata a acestor imagini in imagini sanatoase sau patologice poate sprijini procesul de diagnosticare. 
+Răspândirea rapidă a SARS-CoV-2 (COVID-19) din decembrie 2019 a forțat Unitățile de Terapie Intensivă să facă față unui număr mare de pacienți internați simultan cu resurse limitate. Pacienții grav bolnavi de COVID-19, în special cei cu ventilatoare mecanice, necesită o atenție specială, deoarece pot dezvolta complicații potențiale cu consecințe hemodinamice și respiratorii critice. Ultrasunetele la punctul de îngrijire (POCUS) ar putea avea un rol important în evaluarea pacientului cu SARS-CoV-2 în stare critică. În mare parte, ecografia pulmonară a fost prezentată ca având un rol în diagnostic și monitorizare, dar examinarea căilor respiratorii și evaluarea hemodinamică sunt de asemenea de interes.
+
+
+### TODOlist
+1. Iteratia 1
+- analiza datelor
+- clasificarea binara a imaginilor (normale vs. patologice)
+- evaluarea clasificarii
+
+2. Iteratia 2
+- analiza datelor
+- clasificarea multiclasa a imaginilor (normale vs. patologia1 vs. patologia2 vs. patologia3)
+- evaluarea clasificarii
+- compararea abordarii din iteratia 1 cu abordarea din iteratia 2
+
+### Data
+- imagini[link](https://drive.google.com/file/d/1KGIfChgskbB0H2FhPsMdebhllfcqMMkk/view?usp=sharing)
+
+
+### Bibliografie
+- Ghid imagini [link](GhidImaginiUS-AI.docx)
+- Simon, R., Petrișor, C., Bodolea, C., Csipak, G., Oancea, C., & Golea, A. (2021). ABC approach proposal for POCUS in COVID-19 critically ill patients. Medical Ultrasonography, 23(1), 94-102. [link](https://eds.s.ebscohost.com/eds/pdfviewer/pdfviewer?vid=0&sid=b8705254-6e59-4baf-bd4b-8aca37d58999%40redis)
+- Polyzogopoulou, E., Amoiridou, P., Abraham, T. P., & Ventoulis, I. (2022). Acute liver injury in COVID-19 patients hospitalized in the intensive care unit: Narrative review. World Journal of Gastroenterology, 28(47), 6662. [link](https://www.scienceopen.com/document_file/d2c6543c-9c93-4045-aed8-522af36a8a85/PubMedCentral/d2c6543c-9c93-4045-aed8-522af36a8a85.pdf)
+</details>
+
+
+<details>
+    <summary> 7. Project Smart agriculture </summary>
 
 ### Scop
 Cultivarea eficienta a plantelor
@@ -231,8 +266,8 @@ Tot mai multe persoane sunt interesate de agricultura, produse cat mai naturale 
 
 
 <details>
-    <summary> 7. Project Autonomated driving </summary>
+    <summary> 8. Project Autonomated driving </summary>
 
-More details [link](2023_04_03_SemesterProjects_Bosch.pptx)
+More details [link](2023_04_03_SemesterProjects_Bosch.pdf)
 
 </details>
