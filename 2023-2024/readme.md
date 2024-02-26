@@ -16,6 +16,8 @@ Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la 
 - participarea activa la cursuri si laboratoare
 - participare activa la laborator 
 - realizarea si prezentarea proiectului (aplicatie si documentatie)
+- respectarea regulilor [link](https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/rules.pdf)
+- situatia evaluarii [link](https://ubbcluj-my.sharepoint.com/:x:/g/personal/laura_diosan_ubbcluj_ro/ERK4zCwNxsBBu_BFutXE96UBmNp-tsUC2evBHN7CgrYpxQ?e=aFWHmD)
 
 
 **Echipa**:
@@ -29,13 +31,15 @@ Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la 
 <tr><td><p>1</p></td><td><p>Introducere &amp; organizare</p></td><td><p>Hello AI world&nbsp;! </p></td><td><p>26 feb – 1 mar</p></td><td></td><td></td></tr>
 
 <tr><td><p>2</p></td><td><p>ML – clase de probleme si de algoritmi, metrici de performanta</p></td><td><p>Lab1&nbsp;: lab cu probleme simple de algoritmica 
-<a href="https://classroom.github.com/a/PilDnSeP" target="_blank">assignment</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab01/AI-lab01.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/PilDnSeP" target="_blank">[assignment]</a>
 </p>
 
-</td><td><p>4-8 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>
+</td><td><p>4-8 martie</p></td><td><p>100</p></td><td><p>300</p></td></tr>
 
 <tr><td><p>3</p></td><td><p>Supervised learning – LMSE, SGD, LogRegression,</p></td><td><p>Lab cu prelucrari de date 
-<a href="https://classroom.github.com/a/efwkMdsB" target="_blank">assignment</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab02/AI-lab02.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/efwkMdsB" target="_blank">[assignment]</a>
 </p></td><td><p>11-15 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>
 
 <tr><td><p>4</p></td><td><p>Supervised learning – ANN, DTs, SVM</p></td><td><p> OCR - text location &amp; recognised text </p></td><td><p>18-22 martie</p></td><td><p>100</p></td><td><p>500</p></td></tr>
