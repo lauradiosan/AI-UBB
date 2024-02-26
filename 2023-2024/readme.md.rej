@@ -1,0 +1,18 @@
+diff a/2023-2024/readme.md b/2023-2024/readme.md	(rejected hunks)
+@@ -39,13 +39,15 @@
+ 
+ <tr><td><p>3</p></td><td><p>Supervised learning – LMSE, SGD, LogRegression,</p></td><td><p>Lab cu prelucrari de date 
+ <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab02/AI-lab02.md" target="_blank">[cerinte]</a>
+ <a href="https://classroom.github.com/a/efwkMdsB" target="_blank">[assignment]</a>
+ </p></td><td><p>11-15 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>
+ 
+-<tr><td><p>4</p></td><td><p>Supervised learning – ANN, DTs, SVM</p></td><td><p> OCR - text location &amp; recognised text </p></td><td><p>18-22 martie</p></td><td><p>100</p></td><td><p>500</p></td></tr>
++<tr><td><p>4</p></td><td><p>Supervised learning – ANN, DTs, SVM</p></td><td><p> OCR - text location &amp; recognised text 
++<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab03/AI-lab03.md" target="_blank">[cerinte]</a>
++</p></td><td><p>18-22 martie</p></td><td><p>100</p></td><td><p>500</p></td></tr>
+ 
+ <tr><td><p>5</p></td><td><p>Unsupervised learning – kMeans, ANN</p></td><td><p>Objects - classification &amp; detection </p></td><td><p>25-29 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>
+ 
+ <tr><td><p>6</p></td><td><p>Generative AI</p></td><td><p>Unsupervised ML -  topic modeling?</p></td><td><p>1-5 apr</p></td><td><p>100</p></td><td><p>300</p></td></tr>
+ 
+ <tr><td><p>7</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Generative AI </p></td><td><p>8-12 apr</p></td><td><p>100</p></td><td><p>300</p></td></tr>
