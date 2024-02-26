@@ -16,6 +16,7 @@ Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la 
 - participarea activa la cursuri si laboratoare
 - participare activa la laborator 
 - realizarea si prezentarea proiectului (aplicatie si documentatie)
+- situatia evaluarii [link](https://ubbcluj-my.sharepoint.com/:x:/g/personal/laura_diosan_ubbcluj_ro/ERK4zCwNxsBBu_BFutXE96UBmNp-tsUC2evBHN7CgrYpxQ?e=aFWHmD)
 
 
 **Echipa**:
@@ -32,7 +33,7 @@ Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la 
 <a href="https://classroom.github.com/a/PilDnSeP" target="_blank">assignment</a>
 </p>
 
-</td><td><p>4-8 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>
+</td><td><p>4-8 martie</p></td><td><p>100</p></td><td><p>300</p></td></tr>
 
 <tr><td><p>3</p></td><td><p>Supervised learning – LMSE, SGD, LogRegression,</p></td><td><p>Lab cu prelucrari de date 
 <a href="https://classroom.github.com/a/efwkMdsB" target="_blank">assignment</a>
