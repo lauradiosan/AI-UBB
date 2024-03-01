@@ -1,13 +1,6 @@
+# UBB-AI 2023-2024
 
-
-
-Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la grupul cu codul **pr5zxhm**. Multumesc!
-
-Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la disciplina AI.  
-
-
-
-
+Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la grupul cu codul **pr5zxhm**. Multumesc! Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la disciplina AI.  
 .... sa incepem "sa ne dam cu bicicleta" 🚲
 
 **Cerinte**:
@@ -44,6 +37,7 @@ Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la 
 
 <tr><td><p>4</p></td><td><p>Supervised learning – ANN, DTs, SVM</p></td><td><p> OCR - text location &amp; recognised text 
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab03/AI-lab03.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/qFWE7m8y" target="_blank">[assignment]</a>
 </p></td><td><p>18-22 martie</p></td><td><p>100</p></td><td><p>500</p></td></tr>
 
 <tr><td><p>5</p></td><td><p>Unsupervised learning – kMeans, ANN</p></td><td><p>Objects - classification &amp; detection </p></td><td><p>25-29 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>

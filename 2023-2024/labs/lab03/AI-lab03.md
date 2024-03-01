@@ -17,6 +17,8 @@ Biblioteci utile:
 - Azure AI Vision [link](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
 - Tesseract [link](https://github.com/tesseract-ocr/tesseract)
 
+A se consulta exemplul de [aici](https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab03/AIlab03-OCR.ipynb)
+
 
 ## :bulb: Probleme 
 
@@ -31,8 +33,8 @@ Sa se identifice textul scris [de mana] intr-o imagine:
 Specificaţi, implementaţi și testați subalgoritmi pentru problema enuntata.
 Sa se determine:
 1. calitatea procesului de recunoastere a textului, atat la nivel de caracter, cat si la nivel de cuvant 
-    a. prin folosirea unei metrici de distanta sau
-    b. prin folosirea mai multor metrici de distanta.
+- a. prin folosirea unei metrici de distanta sau
+- b. prin folosirea mai multor metrici de distanta.
 2. calitatea localizarii corecte a textului in imagine
 3. posibilitati de imbunatatire a recunoasterii textului
 
