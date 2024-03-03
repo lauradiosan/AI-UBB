@@ -67,7 +67,7 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 **Evaluare**:
 - pe baza punctelor acumulate la curs, laborator, proiect si examenul din sesiune
 - Evaluare (toate assertiunile trebuie respectate)
-    - ASSERT (NrPrezenteLab >= 10)
+    - ASSERT (NrPrezenteLab >= 12)
     - ASSERT (NrPuncteUnLaboratorPredat >= LimMinimaLab)
     - ASSERT (existaMinim8TemeLaboratorPredate == True)
     - ASSERT (nrPunctePeUnLaboratorNepredat == 0)
