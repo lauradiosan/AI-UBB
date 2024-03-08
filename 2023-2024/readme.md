@@ -21,16 +21,22 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 
 <table><tbody><tr><th></th><th><p>Curs</p></th><th><p>Ce trebuie predat la lab</p></th><th><p>Saptamana</p></th><th><p>Punctaj min</p></th><th><p>Punctaj max</p></th></tr>
 
-<tr><td><p>1</p></td><td><p>Introducere &amp; organizare</p></td><td><p>Hello AI world&nbsp;! </p></td><td><p>26 feb – 1 mar</p></td><td></td><td></td></tr>
+<tr><td><p>1</p></td><td><p>Introducere &amp; organizare
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/lectures/00_admin.pdf" target="_blank">[link]</a>
+</p></td><td><p>Hello AI world&nbsp;! </p></td><td><p>26 feb – 1 mar</p></td><td></td><td></td></tr>
 
-<tr><td><p>2</p></td><td><p>ML – clase de probleme si de algoritmi, metrici de performanta</p></td><td><p>Lab1&nbsp;: lab cu probleme simple de algoritmica 
+<tr><td><p>2</p></td><td><p>ML – clase de probleme si de algoritmi, metrici de performanta
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/lectures/01_ML_intro.pdf" target="_blank">[link]</a>
+</p></td><td><p>Lab1&nbsp;: lab cu probleme simple de algoritmica 
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab01/AI-lab01.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/PilDnSeP" target="_blank">[assignment]</a>
 </p>
 
 </td><td><p>4-8 martie</p></td><td><p>100</p></td><td><p>300</p></td></tr>
 
-<tr><td><p>3</p></td><td><p>Supervised learning – LMSE, SGD, LogRegression,</p></td><td><p>Lab cu prelucrari de date 
+<tr><td><p>3</p></td><td><p>Supervised learning – LMSE, SGD, LogRegression
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/lectures/02_ML_LS_GD.pdf" target="_blank">[link]</a>
+</p></td><td><p>Lab cu prelucrari de date 
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab02/AI-lab02.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/efwkMdsB" target="_blank">[assignment]</a>
 </p></td><td><p>11-15 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>
