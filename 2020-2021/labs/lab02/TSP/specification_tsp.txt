@@ -1,0 +1,17 @@
+input:
+
+first line: number of cities (n)
+second line: distances between the first city and all the other cities (n real values)
+third line: distances between the second city and all the other cities (n real values)
+...
+n + 1 line: distances between the n-th city and all the other cities (n real values)
+index of source city
+index of destination city
+
+solution:
+first line: number of cities (n)
+second line: the optimal traversing path that visits all the cities (indexes of cities, starting by 1)
+third line: the value of the optimal path through all the cities (real value)
+fourth line: the length (in number of cities) of the optimal path from the source city to the destination city
+fifth line: the optimal traversing path from the source city to the destination city (indexes of cities, starting by source city and ending by destination city)
+sixth line: the value of the optimal path from the source city to the destination city
