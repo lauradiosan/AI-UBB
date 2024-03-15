@@ -19,7 +19,7 @@ Biblioteci utile:
 - Azure AI Vision [link](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
 
 
-A se consulta exemplul de [aici](https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab03/AIlab04-detection.ipynb)
+A se consulta exemplul de [aici](https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab04/AIlab04-detection.ipynb)
 
 
 ## :bulb: Probleme 
