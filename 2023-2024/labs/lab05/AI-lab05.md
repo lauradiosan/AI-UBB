@@ -48,9 +48,9 @@ Laborator 6
 
 Punctajele acordate ...
  
-1. Rezolvarea problemei (pt datele v1) cu tool – 100 puncte
+1. Rezolvarea problemei (pt datele v1) cu tool – 50 puncte
 2. Rezolvarea problemei (pt datele v1) cu cod propriu (fara biblioteci specializate – e.g. sklearn, numpy, skit, opencv, etc) – 200 puncte
-3. Rezolvarea problemei (pt datele v2) - 100 puncte
+3. Rezolvarea problemei (pt datele v2) - 50 puncte
 4. Rezolvarea problemei (pt datele v3) - 100 puncte
 
  Notă: 

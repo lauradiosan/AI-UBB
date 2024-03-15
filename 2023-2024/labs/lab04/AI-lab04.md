@@ -59,4 +59,4 @@ Laborator 5
 - Cerinta 1 - 100 puncte
 - Cerinta 2 a - 100 puncte 
 - Cerinta 2 b - 100 puncte
-- Cerinta 2 c - 200 puncte
+- Cerinta 2 c - 100 puncte
