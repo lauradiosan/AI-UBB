@@ -54,7 +54,7 @@ Punctajele acordate ...
 4. Rezolvarea problemei (pt datele v3) - 100 puncte
 
  Notă: 
-- punctajul maxim acumulat pentru acest laborator este 500 puncte.
+- punctajul maxim acumulat pentru acest laborator este 400 puncte.
 - punctajul minim pentru ca o tema predata sa fie valida este 100 puncte.  
 
 
