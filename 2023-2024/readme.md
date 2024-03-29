@@ -51,14 +51,17 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 <a href="https://classroom.github.com/a/9ppFi3ge" target="_blank">[assignment]</a>
 </p></td><td><p>25-29 martie</p></td><td><p>200</p></td><td><p>400</p></td></tr>
 
-<tr><td><p>6</p></td><td><p>Generative AI</p></td><td><p>Regression?
+<tr><td><p>6</p></td><td><p>Generative AI</p></td><td><p>Regression - LMSE
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab05/AI-lab05.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/ip9t_kt8" target="_blank">[assignment]</a>
 </p></td><td><p>1-5 apr</p></td><td><p>100</p></td><td><p>400</p></td></tr>
 
-<tr><td><p>7</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Generative AI </p></td><td><p>8-12 apr</p></td><td><p>100</p></td><td><p>300</p></td></tr>
+<tr><td><p>7</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Regression - SGD
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/yCr7DjaN" target="_blank">[assignment]</a>
+</p></td><td><p>8-12 apr</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
-<tr><td><p>8</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Regression - LMSE, SGD</p></td><td><p>15-19 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
+<tr><td><p>8</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Generative AI</p></td><td><p>15-19 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
 <tr><td><p>9</p></td><td><p>Other AI domains: Search methods - deterministic</p></td><td><p>Classification - logRegression </p></td><td><p>22-26 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
@@ -68,9 +71,11 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 
 <tr><td><p>12</p></td><td><p>Other AI domains: ACO, PSO</p></td><td><p>Autoencoder – one class classification</p></td><td><p>20-24 mai</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
-<tr><td><p>13</p></td><td><p>Other AI domains: Rule-based-systems</p></td><td><p>Generative AI </p></td><td><p>27 – 31 mai</p></td><td><p>200</p></td><td><p>800</p></td></tr>
+<tr><td><p>13</p></td><td><p>Other AI domains: Rule-based-systems</p></td><td><p>project presentations – model analysis</p></td><td><p>27 – 31 mai</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
-<tr><td><p>14</p></td><td><p>Other AI domains: Rule-based-sysstems - fuzzy</p></td><td><p>project presentations – model analysis</p></td><td><p>3 - 7 iunie</p></td><td><p>200</p></td><td><p>600</p></td></tr>
+<tr><td><p>14</p></td><td><p>Other AI domains: Rule-based-sysstems - fuzzy</p></td><td>
+<p>Generative AI </p>
+</td><td><p>3 - 7 iunie</p></td><td><p>200</p></td><td><p>800</p></td></tr>
 
 </tbody></table>
 
