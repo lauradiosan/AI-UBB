@@ -6,7 +6,10 @@
 - Proiectele se pot realiza in echipa de maxim 4 persoane
 - O echipa poate lucra la o singura tema de proiect. Un proiect poate fi ales de maxim 5 echipe, dar fiecare echipa va lucra independent.
 - Echipele si temele vor fi comunicate cadrelor didactice care coordoneaza activitatea de laborator pana cel tarziu in 26 aprilie 2024.
-- Proiectele se vor incarca in acest [git](https://classroom.github.com/a/y9E76g34). 
+- Proiectele se vor incarca in acest [git](https://classroom.github.com/a/y9E76g34). Fiecare proiect trebuie sa contina:
+    - codul si explicatiile aferente (de ex. un notebook in care celulele de cod sa alterneze cu cele de explicatii) - organizate cat mai frumos 
+    - un folder cu datele folosite 
+    - o pagina de garda (readme) care sa contina informatii despre: echipa care a lucrat la proiect, problema abordata si un desen/schema care sa sugereze cat mai bine solutia propusa
 - In saptamana 11 (13-17 mai) se vor prezenta, in cadrul orelor de laborator primele 2 etape (Definirea problemei si analiza datelor de intrare) si de vor incarca pe git materialele aferente
 - In saptamana 13 (27 - 31 mai)  se vor prezenta, in cadrul orelor de laborator, ultimele 2 etape (Dezvoltarea modelului si Imbunatatiri) si de vor incarca pe git materialele aferente
 - In saptamana 14 (3-7 iunie) se vor incarca pe git filmulete scurte de prezentare a proiectelor realizate.
