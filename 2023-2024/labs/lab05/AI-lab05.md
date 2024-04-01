@@ -23,9 +23,10 @@ Se consideră problema predicției gradului de fericire a populației globului f
 
 Folsind datele aferente anului 2017 (fisierul v1_world-happiness-report-2017.csv), să se realizeze o predicție a gradului de fericire în funcție:
 -	doar de Produsul intern brut (exemplu detaliat live - demo)
+-   doar de caracteristica "Family" (tema)
 -	de Produsul intern brut si de gradul de libertate (temă). 
 
-Rezolvati problema pentru cazurile in care datele sunt preluate din fisierul:
+Rezolvati problema si pentru cazurile in care datele sunt preluate din fisierul:
 - v2_world-happiness-report-2017.csv
 - v3_world-happiness-report-2017.csv
 
