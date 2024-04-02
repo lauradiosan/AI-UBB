@@ -10,7 +10,10 @@ Dezvoltarea sistemelor care învaţă singure.
 
 ## :book:  Aspecte teoretice
 
-Metoda gradientului descrescător pentru rezolvarea problemelor de regresie si de clasificare.
+Metoda gradientului descrescător pentru rezolvarea problemelor de regresie si de clasificare. 
+
+:exclamation: Normalizarea datele de antrenament si validare/testare.
+ 
 
 Proiectarea sistemelor care învaţă singure.
 
@@ -47,16 +50,15 @@ Specificaţi, proiectaţi, implementaţi si testati cate un algoritm de regresie
 - metoda gradientului descrescator stocastic (demo) - please check the [notebook](SGD/AI-linRegressionSGD.ipynb)
 - metoda gradientului descrescator bazat pe batch-uri, cu tool/API si/sau cod propriu (tema).
 
-Specificaţi, proiectaţi, implementaţi si testati cate un algoritm de clasificare pentru problema 2 si problema 3 bazat pe regresie logistica. 
+Specificaţi, proiectaţi, implementaţi si testati cate un algoritm de clasificare pentru problema 2 si problema 3 bazat pe regresie logistica. Antrenati cate un clasificator pentru fiecare problema, pe care apoi sa ii utilizati pentru a stabili:
+- daca o leziune (dintr-o mamografie) caracterizata printr-o textura de valoare 10 si o raza de valoare 18 este leziune maligna sau benigna
+- specia unei flori de iris care are sepala lunga de 5.35 cm si lata de 3.85 cm, iar petala lunga de 1.25 cm si lata de 0.4cm
 
-Se vor normaliza datele de antrenament si validare.
-
- 
 
 
 🏵️ Cerinte opționale
 
-Rezolvarea unei probleme de regresie prin:
+Rezolvarea unei probleme de regresie/clasificare prin:
 - folosirea validarii încrucișate
 - investigarea diferitelor funcții de loss
 - ce se întîmplă în cazul clasificarii binare daca se modifică pragul de decizie din 0.5 în alte valori. Cum se poate aprecia calitatea clasificatorului pentru diferite valori ale pragului?
