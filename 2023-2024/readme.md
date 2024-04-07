@@ -63,12 +63,15 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 <a href="https://classroom.github.com/a/ip9t_kt8" target="_blank">[assignment]</a>
 </p></td><td><p>1-5 apr</p></td><td><p>100</p></td><td><p>400</p></td></tr>
 
-<tr><td><p>7</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Regression - SGD
+<tr><td><p>7</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Regression&classification - SGD
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/yCr7DjaN" target="_blank">[assignment]</a>
 </p></td><td><p>8-12 apr</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
-<tr><td><p>8</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Generative AI</p></td><td><p>15-19 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
+<tr><td><p>8</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Classification - ANN
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab07/AI-lab07.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/_hAWeW7T" target="_blank">[assignment]</a>
+</p></td><td><p>15-19 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
 <tr><td><p>9</p></td><td><p>Other AI domains: Search methods - deterministic</p></td><td><p>Classification - logRegression </p></td><td><p>22-26 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
