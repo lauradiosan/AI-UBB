@@ -37,7 +37,7 @@ Specificaţi, proiectaţi, implementaţi si testati cate un algoritm de clasific
 
 
 ## :hourglass: Termen de predare 
-Laborator 10
+Laborator 8
 
 ## :moneybag: Evaluarea
 
