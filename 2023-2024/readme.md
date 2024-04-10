@@ -63,7 +63,11 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 <a href="https://classroom.github.com/a/ip9t_kt8" target="_blank">[assignment]</a>
 </p></td><td><p>1-5 apr</p></td><td><p>100</p></td><td><p>400</p></td></tr>
 
-<tr><td><p>7</p></td><td><p>Deep learning – embeddings, models</p></td><td><p>Regression&classification - SGD
+<tr><td><p>7</p></td><td><p>Generative AI 
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/lectures/05_GenerativeAI_part1.pdf" target="_blank">[part1]</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/lectures/05_GenerativeAI_part2.pdf" target="_blank">[part2]</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/lectures/05_GenerativeAI_part3_PrezentareLanturiMarkov 1.pdf" target="_blank">[part3]</a>
+</p></td><td><p>Regression&classification - SGD
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/yCr7DjaN" target="_blank">[assignment]</a>
 </p></td><td><p>8-12 apr</p></td><td><p>200</p></td><td><p>600</p></td></tr>
@@ -73,9 +77,9 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 <a href="https://classroom.github.com/a/_hAWeW7T" target="_blank">[assignment]</a>
 </p></td><td><p>15-19 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
-<tr><td><p>9</p></td><td><p>Other AI domains: Search methods - deterministic</p></td><td><p>Classification - logRegression </p></td><td><p>22-26 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
+<tr><td><p>9</p></td><td><p>Other AI domains: Search methods - deterministic</p></td><td><p>? </p></td><td><p>22-26 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
-<tr><td><p>10</p></td><td><p>Other AI domains: Search methods – non-deterministic</p></td><td><p>classification - ANN </p></td><td><p>29 apr – 3 mai</p></td><td><p>100</p></td><td><p>800</p></td></tr>
+<tr><td><p>10</p></td><td><p>Other AI domains: Search methods – non-deterministic</p></td><td><p>? </p></td><td><p>29 apr – 3 mai</p></td><td><p>100</p></td><td><p>800</p></td></tr>
 
 <tr><td><p>11</p></td><td><p>Other AI domains: Evolutionary algorithms</p></td><td><p>Project presentations – data analysis</p></td><td><p>13-17 mai</p></td><td><p>100</p></td><td><p>400</p></td></tr>
 
