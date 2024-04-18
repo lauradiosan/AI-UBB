@@ -32,12 +32,18 @@ Team leaderul echipei de ML iti propune urmatorul plan de lucru
 - antrenarea si testarea unui algoritm de tip k-means folosind data de tip text
     - Considerarea unei baze cu texte etichetate cu emotii (de ex. textele din data/review_mixed.csv sau https://github.com/sarnthil/unify-emotion-datasets/tree/master/datasets)
     - Extragerea de caracteristici din texte folosind diferite reprezentari precum: Bag of Words, TF-IDF, Word2Vec, altele.
-    - pe baza caracteristicilor extrase, clasificarea textelor si etichetarea lor cu emotii folosind un algoritm de invatare nesupervizat bazat pe k-means (fara a folosi etichetele pt emotiile asociate fiecarui text)
+    - pe baza caracteristicilor extrase, antrenarea nesupervizata a unui clasificator de texte cu scopul etichetarii lor cu emotii folosind un algoritm de invatare nesupervizata bazat pe k-means (fara a folosi etichetele pt emotiile asociate fiecarui text)
 
 
 ## :memo:  Cerinte 
 
-Stabiliti care este sentimentul transmis prin mesajul "...". 
+Stabiliti care este sentimentul transmis prin mesajul **By choosing a bike over a car, I’m reducing my environmental footprint. Cycling promotes eco-friendly transportation, and I’m proud to be part of that movement.**. 
+
+Folositi: 
+- clasificatorul bazat pe k-means antrenat de voi (folosind o biblioteca care implementeaza algoritmul k-means)
+- clientul AZURE (se poate consulta exemplu din notebook).
+
+Care este mai performant?
 
 
 🏵️ Cerinte opționale
