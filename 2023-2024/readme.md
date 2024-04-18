@@ -84,16 +84,25 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 <a href="https://classroom.github.com/a/obwaVMkJ" target="_blank">[assignment]</a>
  </p></td><td><p>22-26 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
-<tr><td><p>10</p></td><td><p> ? </p></td><td><p>Generative AI - word embeddings & sentiment analysis </p></td><td><p>29 apr – 3 mai</p></td><td><p>100</p></td><td><p>800</p></td></tr>
+<tr><td><p>10</p></td><td><p> ? </p></td><td><p>Generative AI - word embeddings & sentiment analysis 
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/lab09/AI-lab09.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/XmLHMsHE" target="_blank">[assignment]</a>
+</p></td><td><p>29 apr – 3 mai</p></td><td><p>120</p></td><td><p>450</p></td></tr>
 
-<tr><td><p>11</p></td><td><p>?</p></td><td><p>Project presentations – exploratory data analysis</p></td><td><p>13-17 mai</p></td><td><p>0</p></td><td><p>200</p></td></tr>
+<tr><td><p>11</p></td><td><p>?</p></td><td><p>Project presentations – exploratory data analysis
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/projects.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/y9E76g34" target="_blank">[assignment]</a>
+</p></td><td><p>13-17 mai</p></td><td><p>0</p></td><td><p>200</p></td></tr>
 
 <tr><td><p>12</p></td><td><p> ? </p></td><td><p> </p></td><td><p>20-24 mai</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
-<tr><td><p>13</p></td><td><p> ? </p></td><td><p>project presentations – model analysis</p></td><td><p>27 – 31 mai</p></td><td><p>0</p></td><td><p>600</p></td></tr>
+<tr><td><p>13</p></td><td><p> ? </p></td><td><p>Project presentations – model analysis
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/labs/projects.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/y9E76g34" target="_blank">[assignment]</a>
+</p></td><td><p>27 – 31 mai</p></td><td><p>0</p></td><td><p>600</p></td></tr>
 
 <tr><td><p>14</p></td><td><p> ? </p></td><td>
-<p> ?  & teaser proiect</p>
+<p> ?  & project teaser</p>
 </td><td><p>3 - 7 iunie</p></td><td><p> ? </p></td><td><p> + 200</p></td></tr>
 
 </tbody></table>
