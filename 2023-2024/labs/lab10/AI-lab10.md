@@ -65,7 +65,7 @@ Punctajele acordate (in funcție de seturile de date folosite) sunt:
 
 Notă: 
 - punctajul maxim acumulat pentru acest laborator este 500 puncte.
-- punctajul minim pentru ca o tema predata sa fie valida este 100 puncte.  
+- punctajul minim pentru ca o tema predata sa fie valida este 200 puncte.  
 
 
 
