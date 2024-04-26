@@ -59,7 +59,7 @@ Laborator 10
 
 Punctajele acordate
 - Extragere caracteristici din texte 
-    - Bag of Words / TF-IDF / Wrd2Vec - 50 puncte
+    - Bag of Words / TF-IDF / Word2Vec - 50 puncte
     - Alte caracteristici – 100 puncte
 - Etichetarea textelor cu emotii folosind kMeans (tool) - 100 puncte
 - Implementare (cod propriu) kMeans pt clusterizare – 100 puncte
