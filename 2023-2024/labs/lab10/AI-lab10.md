@@ -21,17 +21,20 @@ Formularea problemelor ca probleme de căutare şi identificarea modalităţilor
 
 1. Identificarea punctului de optim a unei functii reale - Demo1
 
-
-2. Problema identificării comunităților într-o rețea complexă. A se consulta descrierea de la laboratorul 2 - Tema
-
+2. Problema identificării comunităților într-o rețea complexă. A se consulta descrierea din AI-lab10-GAs.ipynb - Tema
+- cateva info utile despre comunitati [link](https://youtu.be/sI8TK2mETrk?feature=shared), [link](https://youtu.be/RfgjHoVCZwU?feature=shared), [link](https://www.youtube.com/watch?v=KXi4ha79o3s)
 
 ## :memo:  Cerinte 
 
-Se cere identificarea comunităților existente într-o rețea folosind un algoritm evolutiv. Se vor folosi 
+Se cere identificarea comunităților existente într-o rețea folosind:
+- un algoritm predefinit intr-o biblioteca specializata (e.g. networkx, gephi, altele);
+- un algoritm evolutiv. 
+
+Se vor folosi 
 -	informații privind reprezentarea cromozomilor și operatorii genetici din lucrarea: Pizzuti, Clara. "Evolutionary computation for community detection in networks: a review." IEEE Transactions on Evolutionary Computation 22.3 (2017): 464-483. [link](http://staff.icar.cnr.it/pizzuti/pubblicazioni/IEEETEC2017.pdf)
 -	cele 4 rețele / seturi de date din folderul asociat laboratorului current (in format GML – more details [here](https://www.fim.uni-passau.de/fileadmin/dokumente/fakultaeten/fim/lehrstuhl/rutter/abschlussarbeiten/ba-goetz.pdf))
--	rețele / seturi de date identificate de student 
-- reteaua sociala dezvoltata semestrul trecut la MAP (cu construirea in prealabil a grafului corespunzator ei)
+-	rețele / seturi de date identificate de student (maxim 6 retele)
+
 
 Aplicaţia (specificata, proiectata si implementata) trebuie să permită:
 -	Încărcarea datelor problemei 
@@ -58,13 +61,18 @@ Laborator 12
 ## :moneybag: Evaluarea
 
 Punctajele acordate (in funcție de seturile de date folosite) sunt:
-- Seturi de date indicate in documentatie - maxim 200 puncte (50 puncte / retea – sunt 4 retele in arhiva real-networks.zip) 
-- Seturi de date identificate de student / profesor – maxim 200 puncte
-- functii de fitnes diferite de cea bazata pe modularitate - 50 puncte / functie
+- 20 puncte / retea in cazul folosirii functiilor prdefinite din biblioteci
+- 50 puncte / retea  in cazul folosirii algoritmului genetic dezvoltat de catre student
+Astfel se pot obtine pentru:
+- Seturi de date indicate in documentatie (sunt 4 retele in arhiva real-networks.zip) - maxim 280 puncte   
+- Seturi de date identificate de student / profesor (maxim 6 retele diferite de cele din arhiva real-networks.zip)
+
+Bonus:
+- functii de fitnes pt algoritmul genetic diferite de cea bazata pe modularitate (maxim 2 functii) - 50 puncte / functie
 
 
 Notă: 
-- punctajul maxim acumulat pentru acest laborator este 500 puncte.
+- punctajul maxim acumulat pentru acest laborator este 660 puncte.
 - punctajul minim pentru ca o tema predata sa fie valida este 200 puncte.  
 
 
