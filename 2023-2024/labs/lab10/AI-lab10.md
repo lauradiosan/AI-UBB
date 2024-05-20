@@ -57,7 +57,7 @@ Datele de iesire sunt reprezentate de:
 
 
 ## :hourglass: Termen de predare 
-Laborator 12 
+Laborator 13 
 
 ## :moneybag: Evaluarea
 
