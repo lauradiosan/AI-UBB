@@ -73,7 +73,7 @@ Bonus:
 
 
 Notă: 
-- punctajul maxim acumulat pentru acest laborator este 660 puncte.
+- punctajul maxim acumulat pentru acest laborator este 800 puncte.
 - punctajul minim pentru ca o tema predata sa fie valida este 200 puncte.  
 
 
