@@ -1,5 +1,7 @@
 # UBB-AI 2023-2024
 
+**Proiectele studentilor** [link](https://youtube.com/playlist?list=PLWqoeian8g3YXNLvbkFyLApczkMzCxgWc&feature=shared)
+
 Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la grupul cu codul **pr5zxhm**. Multumesc! Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la disciplina AI.  
 .... sa incepem "sa ne dam cu bicicleta" 🚲
 
