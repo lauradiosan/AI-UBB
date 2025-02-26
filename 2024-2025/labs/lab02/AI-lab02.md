@@ -16,24 +16,29 @@ Elemente de baza de matematica si statistica. Biblioteci utile:
 
 A se parcurge si informatiile de [aici](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/)
 
+Un scurt exemplu pentru setul de date "data/employee.csv" [aici](emplyeeExample.ipynb)
+
 Normalizarea datelor - please check the [notebook](dataNormalisation/AI-lab02-dataNormalisation.ipynb). 
 
 ## :bulb: Probleme 
 
-1.	Se cunosc date despre angajatii unei companii, date salvate in fisierul "data/employees.csv". 
+1.	S-a efectuat un studiu despre starea domeniului Data Science, iar datele colectate sunt salvate in fisierul "data/surveyDataScience.csv". 
     
     1.a. Sa se stabileasca:
-    - numarul de angajati 
-    - numar si tipul informatiilor (proprietatilor) detinute pentru un angajat
-    - numarul de angajati pentru care se detin date complete
-    - valorile minime, maxime, medii pentru fiecare proprietate
-    - in cazul proprietatilor nenumerice, cate valori posibile are fiecare astfel de proprietate
-    - daca sunt valori lipsa si cum se poate rezolva aceasta problema
+    - numarul de respondenti (de la care s-au colectate informatiile)
+    - numar si tipul informatiilor (atributelor, proprietatilor) detinute pentru un respondent
+    - numarul de respondenti pentru care se detin date complete
+    - durata medie a anilor de studii superioare pentru acesti respondenti (cea efectiva sau cea estimata), durata medie a anilor de studii pentru respondentii din Romania si durata medie a anilor de studii pentru respondentii din Romania care sunt femei. Comparati rezultatele obtinute pentru cele trei grupuri de respondenti. Se presupune ca studiile de licenta dureaza 3 ani, cele de master 2 ani si cele de doctorat 3 ani.
+    - numarul de respondenti femei din Romania pentru care se detin date complete
+    - numarul de femei din Romania care programeaza in Python, precum si intervalul de varsta cu cele mai multe femei care programeaza in Python? Dar in C++? Comparati rezultatele obtinute pentru cele doua limbaje de programare.    
+    - domeniul de valori posibile si valorile extreme pentru fiecare atribut/proprietate (feature). In cazul proprietatilor nenumerice, cate valori posibile are fiecare astfel de proprietate
+    - transformati informatiile despre vechimea in programare in numar de ani (folositi in locul intervalului, mijlocul acestuia) si apoi calculati momentele de ordin 1 si 2 pentru aceasta variabila (minim, maxim, media, deviatia standard, mediana). Ce se poate spune despre aceasta variabila?
 
     1.b. Sa se vizualizeze:
-    - distributia salariilor acestor angajati pe categorii de salar 
-    - distributia salariilor acestor angajati pe categorii de salar si echipa din care fac parte
-    - angajatii care pot fi considerati "outlieri"
+    - distributia respondentilor care programeaza in Python pe categorii de varsta
+    - distributia respondentilor din Romania care programeaza in Python pe categorii de varsta 
+    - distributia respondentilor femei din Romania care programeaza in Python pe categorii de varsta 
+    - respondentii care pot fi considerati "outlieri" din punct de vedere al vechimii in programare (puteti folositi un boxplot pentru a identifica aceste valori)
 
 2. Se dau mai multe imagini (salvate in folder-ul "data/images"). Se cere:
     - sa se vizualizeze una din imagini
@@ -51,7 +56,7 @@ Normalizarea datelor - please check the [notebook](dataNormalisation/AI-lab02-da
     - sinonimele celui mai lung cuvant din text
 
 4. Sa se normalizeze informatiile de la problema 1 si 2 folosind diferite metode de normalizare astfel:
-    - problema 1 - salariul, bonusul, echipa
+    - problema 1 - durata anilor de studii universitare, vechimea in programare
     - problema 2 - valorile pixelilor din imagini
     - problema 3 - numarul de aparitii a cuvintelor la nivelul unei propozitii.
 
