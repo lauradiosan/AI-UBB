@@ -9,6 +9,7 @@
 
 <tr><td><p>2</p></td><td><p>ML – clase de probleme si de algoritmi, metrici de performanta
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/01_ML_intro.pdf" target="_blank">[link]</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/code/MLalgorithmsPart1.ipynb target="_blank">[code example]</a>
 </p></td><td><p>Lab cu probleme simple de algoritmica 
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab01/AI-lab01.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/I-QTwKAG" target="_blank">[assignment]</a>
