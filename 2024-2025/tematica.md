@@ -43,8 +43,8 @@
 <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/annAndCnns.ipynb" target="_blank">[link exemplu]</a> -->
 </p>
 </td><td><p>Regression - LMSE
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab05/AI-lab05.md" target="_blank">[cerinte]</a> -->
-<!-- <a href="https://classroom.github.com/a/ip9t_kt8" target="_blank">[assignment]</a> -->
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab05/AI-lab05.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/yQ5fjr8b" target="_blank">[assignment]</a>
 </p></td><td><p>31 martie - 4 apr</p></td><td><p>100</p></td><td><p>400</p></td></tr>
 
 <tr><td><p>7</p></td><td><p>Generative AI 
@@ -52,8 +52,8 @@
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_GenerativeAI_part2.pdf" target="_blank">[part2]</a>
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_GenerativeAI_part3_PrezentareLanturiMarkov 1.pdf" target="_blank">[part3]</a> -->
 </p></td><td><p>Regression&classification - SGD
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a>
-<a href="https://classroom.github.com/a/yCr7DjaN" target="_blank">[assignment]</a> -->
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a> 
+<a href="https://classroom.github.com/a/Legc648l" target="_blank">[assignment]</a>
 </p></td><td><p>7 - 11 apr</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
 <tr><td><p>8</p></td><td><p>Deep learning – word embeddings 
