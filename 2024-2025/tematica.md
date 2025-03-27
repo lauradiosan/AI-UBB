@@ -24,16 +24,16 @@
 <a href="https://classroom.github.com/a/4cJqF44N" target="_blank">[assignment]</a>
 </p></td><td><p>10 - 14 martie</p></td><td><p>100</p></td><td><p>200</p></td></tr>
 
-<tr><td><p>4</p></td><td><p>Supervised learning – SVM
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/03_ML_SVM.pdf" target="_blank">[link]</a> -->
+<tr><td><p>4</p></td><td><p>Supervised learning – ANN
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/04_ML_ANN.pdf" target="_blank">[link]</a>
 </p></td><td>
 <p> OCR - text location &amp; recognised text 
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab03/AI-lab03.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/_bDoOPzk" target="_blank">[assignment]</a>
 </p></td><td><p>17 - 21 martie</p></td><td><p>100</p></td><td><p>500</p></td></tr>
 
-<tr><td><p>5</p></td><td><p>Supervised learning – ANN
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/04_ML_ANN.pdf" target="_blank">[link]</a> -->
+<tr><td><p>5</p></td><td><p>Supervised learning – ANN 
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/code/annAndCnns.ipynb" target="_blank">[example]</a>
 </p></td><td><p>Objects - classification &amp; detection 
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab04/AI-lab04.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/PvAcYqrJ" target="_blank">[assignment]</a>
