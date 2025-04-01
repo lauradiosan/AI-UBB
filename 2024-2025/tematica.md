@@ -40,7 +40,9 @@
 </p></td><td><p>24 - 28 martie</p></td><td><p>200</p></td><td><p>400</p></td></tr>
 
 <tr><td><p>6</p></td><td><p>Supervised learning – ANN
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/annAndCnns.ipynb" target="_blank">[link exemplu]</a> -->
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/bikesANN.ipynb" target="_blank">[ANN]</a> 
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/bikesCNN.ipynb" target="_blank">[CNN]</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/projects.md" target="_blank">[proposed projects]</a>
 </p>
 </td><td><p>Regression - LMSE
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab05/AI-lab05.md" target="_blank">[cerinte]</a>
