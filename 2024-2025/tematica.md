@@ -55,7 +55,7 @@
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_GenerativeAI_part3_PrezentareLanturiMarkov 1.pdf" target="_blank">[part3]</a> -->
 </p></td><td><p>Regression&classification - SGD
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a> 
-<a href="https://classroom.github.com/a/Legc648l" target="_blank">[assignment]</a>
+<a href="https://classroom.github.com/a/i-JDfvTz" target="_blank">[assignment]</a>
 </p></td><td><p>7 - 11 apr</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
 <tr><td><p>8</p></td><td><p>Deep learning – word embeddings 
