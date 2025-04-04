@@ -213,7 +213,7 @@ Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate
 
 
 <details>
-    <summary> 4. Recunoasterea emotiilor in comunicatele unor persoane oficiale <img src="projects\emotions.jpg" width="100"> </summary>
+    <summary> 4. Recunoasterea emotiilor in comunicatele unor persoane oficiale <img src="projects\Emotions.jpg" width="100"> </summary>
 
 ### Recunoasterea emotiilor in comunicatele unor persoane oficiale
 
