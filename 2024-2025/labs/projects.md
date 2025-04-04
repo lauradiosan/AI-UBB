@@ -432,7 +432,7 @@ Barlaug, N., & Gulla, J. A. (2021). Neural networks for entity matching: A surve
 
 <details>
     <summary> 8. Helpdesk bazat pe LLM 
-<img src="image.png" width="120"> </summary>
+<img src="projects/RAG.png" width="120"> </summary>
 
 ### Sistem automat pentru helpdesk bazat pe LLM
 
