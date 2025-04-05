@@ -550,3 +550,64 @@ Implementarea unui astfel de sistem ar putea reduce semnificativ timpul necesar 
 
 
 </details>
+
+
+<details>
+    <summary> 10. Voice to text  
+    <img src="projects\voice.avif" width="150">
+    </summary>
+
+### Identificarea cancerului de plaman
+
+#### Scop
+Dezvoltarea unui sistem inteligent care să ajute medicii pentru a completa in mod automat fisa pacientului.
+
+#### Ideea de baza
+
+Munca medicilor este plina de provocari. Mai ales cand trebuie sa faca multe task-uri, uneori simultan, precum realizarea si citirea unei ecografii si inregistrarea observatiilor facute. De aceea este nevoie de un sistem inteligent care sa transforme informatia audio inregistrata de catre un medic in format text si sa completeze in mod automat rubricile dedicate din fisa pacientului.
+Se va pleca de la inregistrari audio precum [aceasta](Projects/voice2text/test1.ogg), se vor converti in format text si se va compelta automat partea evidentiata cu galben din fisa pacientului, precum [aceasta](Projects/voice2text/patient1.odt) (informatiile respective se vor salva intr-un tabel/jason si apoi se vor exporta intr-un document word)
+
+Iteratia1 - informatiile sunt furnizate in limba engleza (Echivalentul celor din exemple)
+
+Iteratia2 - informatiile sunt furnizate in limba romana
+
+
+#### TODOlist
+
+1. Definirea problemei 
+    - ce se da si ce se cere?
+    - de ce e nevoie de AI pentru a rezolva problema?
+2. Analiza datelor de intrare
+    - ce tip de date avem?
+    - cate date avem?
+    - ce distributie au datele?
+3. Dezvoltarea unei mini-aplicatii software care
+    - sa primeasca datele de intrare (in formatul corespunzator)
+    - sa ofere rezultatul (in formatul corespunzator) - hard-coded
+    - sa fie pregatita pentru a integra modelul de AI
+3. Dezvoltarea unui model de AI si evaluarea performantei
+    - ce arhitectura are modelul de AI?
+    - ce setup (parametrii si hiper-parametrii) se folosesc pentru antrenarea si validarea modelului de AI?
+    - ce metrici de performanta se monitorizeaza?
+4. Propuneri de imbunatatiri
+
+
+#### Data
+
+- inregistrari audio [link](Projects/voice2text/test1.ogg) [link](Projects/voice2text/test2.ogg) [link](Projects/voice2text/test3.ogg)
+- fisa pacientului [link](Projects/voice2text/patient1.odt)
+ 
+#### Bibliografie
+
+- [Whisper](https://openai.com/index/whisper/)
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+- [RobinASR](https://github.com/racai-ai/RobinASR) - for romanian
+- [speech2text](https://huggingface.co/docs/transformers/model_doc/speech_to_text)
+- [wav2vec](https://ai.meta.com/research/impact/wav2vec/)
+- [wav2vec2](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
+- [romanian wav2vec2](https://huggingface.co/gigant/romanian-wav2vec2)
+- [wavLM](https://huggingface.co/docs/transformers/model_doc/wavlm)
+
+
+
+</details>
