@@ -61,8 +61,8 @@
 <tr><td><p>8</p></td><td><p>Deep learning – word embeddings 
 <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/06_Word2Vec.pdf" target="_blank">[link] -->
 </p></td><td><p>Classification - ANN
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab07/AI-lab07.md" target="_blank">[cerinte]</a> -->
-<!-- <a href="https://classroom.github.com/a/_hAWeW7T" target="_blank">[assignment]</a> -->
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab07/AI-lab07.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/tIYjmMnT" target="_blank">[assignment]</a>
 </p></td><td><p>14-17 apr</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
 <tr><td><p>9</p></td><td><p>Deep learning - transformers
