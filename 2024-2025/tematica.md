@@ -67,9 +67,9 @@
 
 <tr><td><p>9</p></td><td><p>Deep learning - transformers
 <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/07_transformer.pptx" target="_blank">[link] -->
-</p></td><td><p>Generative AI - generare texte (Markov)
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab08/AI-lab08.md" target="_blank">[cerinte]</a> -->
-<!-- <a href="https://classroom.github.com/a/obwaVMkJ" target="_blank">[assignment]</a> -->
+</p></td><td><p>Text mining - sentiment analysis
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab08/AI-lab08.md" target="_blank">[cerinte]</a>
+<a href="https://classroom.github.com/a/jcDVVTge" target="_blank">[assignment]</a>
  </p></td><td><p>28 apr - 2 mai</p></td><td><p>100</p></td><td><p>700</p></td></tr>
 
 <tr><td><p>10</p></td><td><p>Algoritmi de cautare neinformata
