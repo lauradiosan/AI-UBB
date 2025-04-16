@@ -186,6 +186,7 @@ Plecand de la seturile de date cu mamografii, se vor folosii modele de AI bazate
 - MIAS [link](http://peipa.essex.ac.uk/info/mias.html)
 - DDSM [link](http://www.eng.usf.edu/cvprg/Mammography/Database.html) or [link](https://www.cancerimagingarchive.net/collection/cbis-ddsm/)
 - INbreast  [link](https://www.kaggle.com/datasets/tommyngx/inbreast2012)
+- DBT - [link](https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/)
 
 #### Bibliografie
 
