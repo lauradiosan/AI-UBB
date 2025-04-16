@@ -50,16 +50,15 @@
 </p></td><td><p>31 martie - 4 apr</p></td><td><p>100</p></td><td><p>400</p></td></tr>
 
 <tr><td><p>7</p></td><td><p>Generative AI 
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_GenerativeAI_part1.pdf" target="_blank">[part1]</a>
-<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_GenerativeAI_part2.pdf" target="_blank">[part2]</a>
-<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_GenerativeAI_part3_PrezentareLanturiMarkov 1.pdf" target="_blank">[part3]</a> -->
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_GenerativeAI_LLM.pdf" target="_blank">[part1]</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/05_Reprezentari numerice ale datelor.pdf" target="_blank">[part2]</a>
 </p></td><td><p>Regression&classification - SGD
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a> 
 <a href="https://classroom.github.com/a/i-JDfvTz" target="_blank">[assignment]</a>
 </p></td><td><p>7 - 11 apr</p></td><td><p>200</p></td><td><p>600</p></td></tr>
 
 <tr><td><p>8</p></td><td><p>Deep learning – word embeddings 
-<!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/06_Word2Vec.pdf" target="_blank">[link] -->
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/06_Word2Vec.pdf" target="_blank">[link]
 </p></td><td><p>Classification - ANN
 <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab07/AI-lab07.md" target="_blank">[cerinte]</a>
 <a href="https://classroom.github.com/a/tIYjmMnT" target="_blank">[assignment]</a>
