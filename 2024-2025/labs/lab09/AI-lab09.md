@@ -22,10 +22,14 @@ Dezvoltarea sistemelor care învaţă singure. Probleme de tip clasificare din d
 
 ## :bulb: Probleme
 
-In urma unor inundatii, o parte din versurile unor poezii  s-au degradat. Folositi un LLM pentru a completa versurile lipsa (avand in vedere ca primul vers din fiecare strofa s-a pastrat intact)
+In urma unor inundatii, o parte din versurile unor poezii  s-au degradat. 
+
+1. Folositi un LLM pentru a completa versurile lipsa (avand in vedere ca primul vers din fiecare strofa s-a pastrat intact)
 
 a. folositi un LLM pre-antrenat (pe texte generale) si analizati influenta parametrilor (inclusiv a tokenizer-ului) asupra calitatii textului generat
+
 b. folositi un LLM pre-antrenat si adaptat la un corpus de poezii si analizati influenta parametrilor (inclusiv a tokenizer-ului) asupra calitatii textului generat
+
 c. Incercati sa raspundeti la urmatoarele intrebari: 
 - c.1 care sunt diferentele de calitate intre textele generate cu cele doua tipuri de LLM-uri?
 - c.2 ce se intampla daca versurile din prompt sunt in limba engleza?
