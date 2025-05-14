@@ -13,9 +13,9 @@
     - un folder cu datele folosite 
     - o pagina de garda (readme) care sa contina informatii despre: echipa care a lucrat la proiect, problema abordata si un desen/schema care sa sugereze cat mai bine solutia propusa
     - cel putin cate 2 pull-request-uri (unul pentru fiecare etapa de predare) din partea fiecarui membru al echipei
-- In saptamana 11 (12-16 mai) se vor prezenta, in cadrul orelor de laborator primele 2 etape (Definirea problemei si analiza datelor de intrare) si de vor incarca pe git materialele aferente
-- In saptamana 13 (26 - 30 mai)  se vor prezenta, in cadrul orelor de laborator, ultimele 2 etape (Dezvoltarea modelului si Imbunatatiri) si se vor incarca pe git materialele aferente
-- In saptamana 14 (2-6 iunie) se vor incarca pe git filmulete scurte de prezentare a proiectelor realizate (doar de catre echipele care au obtinut cel putin 300p pana acum).
+- In saptamana 12 (19 - 23 mai) se vor prezenta, in cadrul orelor de laborator primele 2 etape (Definirea problemei si analiza datelor de intrare) si de vor incarca pe git materialele aferente
+- In saptamana 14 (2 - 6 iunie)  se vor prezenta, in cadrul orelor de laborator, ultimele 2 etape (Dezvoltarea modelului si Imbunatatiri) si se vor incarca pe git materialele aferente
+- In saptamana 14 (2 - 6 iunie) se vor incarca pe git filmulete scurte de prezentare a proiectelor realizate (doar de catre echipele care au obtinut cel putin 300p pana acum).
 - Evaluare:
     - definirea problemei si analiza datelor de intrare - 200p
     - dezvoltarea unui model de AI si evaluarea performantei - 300p
