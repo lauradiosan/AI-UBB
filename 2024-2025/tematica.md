@@ -84,8 +84,8 @@
 <tr><td><p>12</p></td><td><p>Algoritmi de cautare  - Algoritmi Evolutivi
 <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/lectures/09_localSarch_EA.pdf" target="_blank">[link] -->
 </p></td><td><p>Project presentations – exploratory data analysis
-<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/lab09/AI-lab09.md" target="_blank">[cerinte]</a>
-<a href="https://classroom.github.com/a/UZxP9G7g" target="_blank">[assignment]</a>
+<a href="https://github.com/lauradiosan/AI-UBB/blob/main/2024-2025/labs/projects.md" target="_blank">[proposed projects]</a>
+<a href="https://classroom.github.com/a/Qzm42lMB" target="_blank">[assignment]</a>
 </td><td><p>19 - 23 mai</p></td><td><p> - </p></td><td><p>200</p></td></tr>
 
 <tr><td><p>13</p></td><td><p> ? </p></td><td><p> 
