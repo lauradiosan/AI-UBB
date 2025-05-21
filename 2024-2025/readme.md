@@ -24,7 +24,7 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 - Evaluare (toate assertiunile trebuie respectate)
     - ASSERT (NrPrezenteLab >= 12)
     - ASSERT (NrPuncteUnLaboratorPredat >= LimMinimaLab)
-    - <span style="color:red"> *ASSERT ( existaMinim7TemeLaboratorPredate == True)*</span>
+    - <span style="color:red"> *ASSERT ( existaMinim7TemeLaboratorPredate == True)*</span> 
     - ASSERT (nrPunctePeUnLaboratorNepredat == 0)
     - ASSERT (NrPuncteProiect >= 300))
     - ASSERT (1000 <= nrPuncteExamenScris <= 2000)
