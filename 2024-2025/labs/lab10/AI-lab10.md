@@ -31,8 +31,7 @@ Se cere identificarea comunităților existente într-o rețea folosind:
 - un algoritm evolutiv. 
 
 Se vor folosi 
--	informații privind reprezentarea cromozomilor și operatorii genetici din lucrarea: Pizzuti, Clara. "Evolutionary computation for community detection in networks: a review." IEEE Transactions on Evolutionary Computation 22.3 (2017): 464-483. [link](https://github.com/lauradiosan/AI-UBB/blob/main\2023-2024\labs\lab10\communityDetection\communityDetection.pdf) 
-<!-- (http://staff.icar.cnr.it/pizzuti/pubblicazioni/IEEETEC2017.pdf) -->
+-	informații privind reprezentarea cromozomilor și operatorii genetici din lucrarea: Pizzuti, Clara. "Evolutionary computation for community detection in networks: a review." IEEE Transactions on Evolutionary Computation 22.3 (2017): 464-483. [link](https://staff.icar.cnr.it/pizzuti/pubblicazioni/IEEETEC2017.pdf)
 -	cele 4 rețele / seturi de date din folderul asociat laboratorului current (in format GML – more details [here](https://www.fim.uni-passau.de/fileadmin/dokumente/fakultaeten/fim/lehrstuhl/rutter/abschlussarbeiten/ba-goetz.pdf))
 -	rețele / seturi de date identificate de student (maxim 6 retele)
 
