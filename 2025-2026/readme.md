@@ -1,7 +1,7 @@
 # UBB-AI 2025-2026
 
 Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la grupul cu codul **3au1pdc**. Multumesc! Vom folosi si platforma MsTeams si Git pentru activitatea din acest semestru la disciplina AI.  
-.... sa incepem "sa ne dam cu bicicleta" 🚲
+.... sa incepem "sa ne dam cu 🚲"
 
 **Cerinte**:
 - inscrierea in grupul MsTeams (vezi mai sus)
