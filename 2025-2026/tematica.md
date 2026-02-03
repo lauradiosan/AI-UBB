@@ -8,13 +8,13 @@
     <td><p>1</p></td>
     <td>
         <p>Introducere &amp; organizare
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/00_admin.ppt" target="_blank">[slides]</a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/00_admin.pdf" target="_blank">[slides]</a>
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/code/00_intro.ipynb" target="_blank">[code]</a>
         </p>
         <p>ML – clase de probleme si de algoritmi, metrici de performanta
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/01_ML_intro.pdf" target="_blank">[link]</a>
+            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/01_ML_intro.pdf" target="_blank">[link]</a>
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/code/MLalgorithmsPart1.ipynb target="_blank">[code example]</a>
-            <a href="https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1 target="_blank">[scurt compediu de statistica]</a></p>
+            <a href="https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1 target="_blank">[scurt compediu de statistica]</a></p> -->
     </td>
     <td>
         <p>Lab01 - probleme simple de algoritmica 
