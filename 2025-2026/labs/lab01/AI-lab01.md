@@ -75,7 +75,10 @@ Rezolvarea problemelor. Analiza complexității procesului de rezolvare.
 
 ## :memo:  Cerinte 
 
-Specificaţi, implementaţi și testați subalgoritmi pentru problemele enuntate. Încercați să rezolvați fiecare cerință cât mai eficient (ca număr de pași și / sau ca resurse de memorie folosite). Comparati, din punct de vedere al complexitatii temporale si spatiale, solutia propusa de voi (pentru fiecare problema) cu solutia generata de un bot inteligent (e.g. copilot). 
+Specificaţi, implementaţi și testați subalgoritmi pentru problemele enuntate. Încercați să rezolvați fiecare cerință cât mai eficient (ca număr de pași și / sau ca resurse de memorie folosite). Comparati solutia propusa de voi (pentru fiecare problema) cu solutia generata de un bot inteligent (e.g. copilot) din mai multe perspective:
+- din punct de vedere al complexitatii temporale si spatiale, 
+- din punct de vedere al corectitudinii
+- din punct de vedere al identificarii cazurile de testare "extreme"
 
 ## :hourglass: Termen de predare 
 
