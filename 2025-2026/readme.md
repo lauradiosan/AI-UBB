@@ -9,7 +9,7 @@ Salut...daca ati ajuns aici, mai faceti inca un pas si dati join pe MsTeams la g
 - participarea activa la cursuri si laboratoare
 - realizarea si prezentarea proiectului (aplicatie si documentatie)
 - respectarea regulilor [link](https://github.com/lauradiosan/AI-UBB/blob/main/2023-2024/rules.pdf)
-- situatia evaluarii [link](https://ubbcluj-my.sharepoint.com/:x:/g/personal/laura_diosan_ubbcluj_ro/IQDluZktKxtQRasrj7c8l7VWASUTFPymGGLWiEIgZHzr_eE?e=hiscr4)
+- situatia evaluarii [link](https://ubbcluj-my.sharepoint.com/:x:/g/personal/laura_diosan_ubbcluj_ro/IQDluZktKxtQRasrj7c8l7VWASUTFPymGGLWiEIgZHzr_eE?e=RLQH54)
 
 
 **Echipa**:
