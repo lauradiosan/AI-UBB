@@ -25,7 +25,7 @@
     </td>
     <td><p>23 - 27 februarie</p></td>
     <td><p>100</p></td>
-    <td><p>300</p></td>
+    <td><p>200</p></td>
 </tr>
 
 <tr>
