@@ -37,8 +37,8 @@
     </td>
     <td>
         <p>Lab02 - prelucrari de date 
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab02/AI-lab02.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/4cJqF44N" target="_blank">[assignment]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab02/AI-lab02.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/Z3h65bEz" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>2 - 6 martie</p></td>
