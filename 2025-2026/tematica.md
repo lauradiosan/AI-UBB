@@ -43,7 +43,7 @@
     </td>
     <td><p>2 - 6 martie</p></td>
     <td><p>100</p></td>
-    <td><p>200</p></td>
+    <td><p>300</p></td>
 </tr>
 
 <tr>
