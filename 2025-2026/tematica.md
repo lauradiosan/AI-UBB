@@ -11,11 +11,6 @@
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/00_admin.pdf" target="_blank">[slides]</a>
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/code/00_intro.ipynb" target="_blank">[code]</a>
         </p>
-        <p>ML – clase de probleme si de algoritmi, metrici de performanta
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/01_ML_intro.pdf" target="_blank">[link]</a>
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/code/MLalgorithmsPart1.ipynb target="_blank">[code example]</a>
-            <a href="https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1 target="_blank">[scurt compediu de statistica]</a> -->
-        </p>
     </td>
     <td>
         <p>Lab01 - probleme simple de algoritmica 
@@ -31,8 +26,14 @@
 <tr>
     <td><p>2</p></td>
     <td>
-        <p>Supervised learning – LMSE, SGD, LogRegression 
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/02_ML_LS_GD.pdf" target="_blank">[link]</a> -->
+        <p>ML – clase de probleme si de algoritmi, metrici de performanta
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/01_ML_intro.pdf" target="_blank">[link]</a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/code/MLalgorithmsPart1.ipynb target="_blank">[code example]</a>
+            <a href="https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1 target="_blank">[scurt compediu de statistica]</a> 
+        </p>
+        <p> ML - Supervised learning (LS, GD)
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/02_ML_LS_GD.pdf" target="_blank">[link]</a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/code/01_GD.ipynb target="_blank">[code example]</a>
         </p>
     </td>
     <td>
@@ -55,8 +56,8 @@
     </td>
     <td>
         <p> Lab03 - OCR - text location &amp; text recognition 
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab03/AI-lab03.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/_bDoOPzk" target="_blank">[assignment]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab03/AI-lab03.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/Ggjzvzsx" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>9 - 13 martie</p></td>
