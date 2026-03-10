@@ -50,8 +50,9 @@
 <tr>
     <td><p>3</p></td>
     <td>
-        <p>Supervised learning – ANN 
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/04_ML_ANN.pdf" target="_blank">[link]</a> -->
+        <p>Supervised learning – SVM si ANN 
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/03_ML_SVM.pdf" target="_blank">[link]</a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/04_ML_ANN.pdf" target="_blank">[link]</a>
         </p>
     </td>
     <td>
