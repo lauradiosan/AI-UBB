@@ -75,8 +75,8 @@
     </td>
     <td>
         <p>Lab04 - Objects classification &amp; detection 
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab04/AI-lab04.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/PvAcYqrJ" target="_blank">[assignment]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab04/AI-lab04.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/NylvfB_p" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>16 - 20 martie</p></td>
