@@ -70,6 +70,9 @@
     <td><p>4</p></td>
     <td>
         <p>Supervised learning – ANN 
+            <a href="https://colab.research.google.com/drive/1hxWtr98jXqRDs_rZLZcEmX_hUcpDLq6e?usp=sharing" target="_blank">[Numpy details]</a>
+            <a href="https://colab.research.google.com/drive/1Pz8b_h-W9zIBk1p2e6v-YFYThG1NkYeS?usp=sharing" target="_blank">[PyTorch details - v1]</a>
+            <a href="https://colab.research.google.com/drive/1Dl_Xs5GKjEOAedQUVOjG_fPMB1eXtLSm" target="_blank">[PyTorch details - v2]</a>
             <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/code/annAndCnns.ipynb" target="_blank">[example]</a> -->
         </p>
     </td>
