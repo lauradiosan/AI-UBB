@@ -99,8 +99,8 @@
     </td>
     <td>
         <p>Lab05 - Regression - LMSE
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab05/AI-lab05.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/yQ5fjr8b" target="_blank">[assignment]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab05/AI-lab05.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/_NbqOY18" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>23 - 27 martie</p></td>
