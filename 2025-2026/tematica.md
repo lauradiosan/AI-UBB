@@ -119,7 +119,7 @@
     <td>
         <p>Lab06 - Regression&classification - SGD
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab06/AI-lab06.md" target="_blank">[cerinte]</a> 
-            <a href="https://classroom.github.com/a/i-JDfvTz" target="_blank">[assignment]</a>
+            <a href="https://classroom.github.com/a/lUmSHM1L" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>30 martie - 3 apr</p></td>
