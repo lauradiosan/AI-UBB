@@ -92,9 +92,7 @@
     <td><p>5</p></td>
     <td>
         <p>Supervised learning – ANN
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/bikesANN.ipynb" target="_blank">[ANN]</a> 
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/bikesCNN.ipynb" target="_blank">[CNN]</a>
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/projects.md" target="_blank">[proposed projects]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/code/ANN-CNN" target="_blank">[ANN-CNN-examples]</a> 
         </p>
     </td>
     <td>
@@ -112,8 +110,8 @@
     <td><p>6</p></td>
     <td>
         <p>Generative AI 
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/05_GenerativeAI_LLM.pdf" target="_blank">[part1]</a>
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/05_Reprezentari numerice ale datelor.pdf" target="_blank">[part2]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/06_GenerativeAI_LLM_2026.pdf" target="_blank">[part1]</a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/05_Reprezentari numerice ale datelor.pdf" target="_blank">[part2]</a>
         </p>
     </td>
     <td>
@@ -135,8 +133,8 @@
     </td>
     <td>
         <p>Lab07 - Classification - ANN
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab07/AI-lab07.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/tIYjmMnT" target="_blank">[assignment]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab07/AI-lab07.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/b9XgWwK2" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>6-9 apr</p></td>
