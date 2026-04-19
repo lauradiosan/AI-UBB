@@ -128,7 +128,7 @@
     <td><p>7</p></td>
     <td>
         <p>Deep learning – word embeddings 
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/06_Word2Vec.pdf" target="_blank">[link] -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/07_transformer.pdf" target="_blank">[link] </a>
         </p>
     </td>
     <td>
@@ -145,14 +145,14 @@
 <tr>
     <td><p>8</p></td>
     <td>
-        <p>Deep learning - transformers
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/07_transformer.pptx" target="_blank">[link] -->
+        <p> RAG systems
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/08_rag.pdf" target="_blank">[link] >/a>
         </p>
     </td>
     <td>
         <p>Lab08 - Text mining - sentiment analysis
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab08/AI-lab08.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/jcDVVTge" target="_blank">[assignment]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab08/AI-lab08.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/kpfKcr97" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>20 -24 apr </p></td>
@@ -163,8 +163,9 @@
 <tr>
     <td><p>9</p></td>
     <td>
-        <p>Machine Learning - Decision Trees, KNN, kMeans
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/08_search_uninformed.pdf" target="_blank">[link] -->
+        <p> Reinforcement Learning
+            <!-- Machine Learning - Decision Trees, KNN, kMeans 
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/08_search_uninformed.pdf" target="_blank">[link] -->
         </p>
     </td>
     <td>
@@ -181,8 +182,9 @@
 <tr>
     <td><p>10</p></td>
     <td>
-        <p>Algoritmi de cautare  - Algoritmi Evolutivi
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/09_localSarch_EA.pdf" target="_blank">[link] -->
+        <p> Agentic AI
+            <!-- Algoritmi de cautare  - Algoritmi Evolutivi
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/09_localSarch_EA.pdf" target="_blank">[link] -->
         </p>
     </td>
     <td>
@@ -199,7 +201,7 @@
 <tr>
     <td><p>11</p></td>
     <td>
-        <p> Reinforcement learning  </p>
+        <p> Algoritmi de cautare  - Algoritmi Evolutivi </p>
     </td>
     <td>
         <p>Lab10 - Optimisation by EAs
@@ -215,7 +217,7 @@
 <tr>
     <td><p>12</p></td>
     <td>
-        <p> Agentic AI </p>
+        <p> Alti algoritmi de Machine Learning </p>
     </td>
     <td>
         <p>Lab12 - Reinforcement learning</p>

@@ -181,13 +181,14 @@ Liem, C. C. S., Langer, M., Demetriou, A., He, H., & Müller, K.‑R. (2018). Ps
     <summary> 4. Diagram-as-Code AI Assistant </summary>
 
 #### Scop
-Dezvoltarea unui sistem inteligent bazat pe modele de limbaj de mari dimensiuni (LLM) și tehnici de analiză statică a codului, capabil să genereze automat diagrame de arhitectură software în format „diagram as code” (de ex. Mermaid, PlantUML), pornind de la descrieri textuale și/sau cod sursă, cu scopul de a sprijini menținerea documentației arhitecturale sincronizate cu implementarea. Proiectul se concentrează pe generarea de diagrame structurale de bază (context, componente, relații).
+Dezvoltarea unui sistem inteligent bazat pe modele de limbaj de mici dimensiuni (SLM) și tehnici de analiză statică a codului, capabil să genereze automat diagrame de arhitectură software în format „diagram as code” (diagrame formalizate, de ex. Mermaid, PlantUML), pornind de la descrieri textuale și/sau cod sursă, cu scopul de a sprijini menținerea documentației arhitecturale sincronizate cu implementarea. Proiectul se concentrează pe generarea de diagrame structurale de bază (context, componente, relații).
 
 #### Ideea de baza
 Arhitectura modernă de software se bazează puternic pe diagrame (de ex., context de sistem, diagrame container, diagrame de secvență, diagrame de infrastructură). Totuși, menținerea documentației sincronizate cu codul este adesea dificilă și consumatoare de timp.
 De aceea este necesara proiectarea unei soluții bazate pe inteligență artificială care poate genera diagrame de arhitectură pornind de la descrieri în limbaj natural și/sau din codul sursă. Instrumentul ar trebui să suporte abordări de tip „diagram as code” (de ex., generarea de definiții structurate ale diagramelor, nu doar imagini statice). 
 
 Dimensiuni de evaluare
+- calitatea mecanismului de RAG si a bazei de cunostiinte cu AST-urile diagramelor
 - Acuratețea generării diagramelor
 - Nivelul de automatizare și ușurința mentenanței
 - Utilitatea practică pentru echipele de software
@@ -199,6 +200,9 @@ Generarea diagramelor din:
 - Descrieri text simple ale arhitecturii
 - User stories
 - Repozitoare de cod (de ex., identificarea serviciilor, API-urilor, dependențelor)
+
+Dataset de antrenament pentru modele de limbaj de mici dimensiuni (SLM) care să învețe să genereze diagrame din text și/sau cod.
+- dataset cu diagrame exprimate intr-un DSL (parsate si convertite in AST canonic) 
 
 Output-ul diagramelor în formate precum:
 - Mermaid
