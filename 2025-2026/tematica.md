@@ -148,7 +148,7 @@
         <p> RAG systems
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/08_rag.pdf" target="_blank">[link] </a>
         </p>
-        <p> Cerinte proiecte <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/Projects/readme.md" target="_blank"> [link]/a> 
+        <p> Cerinte proiecte <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/Projects/readme.md" target="_blank"> [link] </a> 
         </p>
     </td>
     <td>
