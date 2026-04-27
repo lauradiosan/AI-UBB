@@ -172,8 +172,8 @@
     </td>
     <td>
         <p>Lab09 - LLMs
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab09/AI-lab09.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/UZxP9G7g" target="_blank">[assignment]</a> -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab09/AI-lab09.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/rQykHTIH" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>27 apr - 30 apr</p></td>
