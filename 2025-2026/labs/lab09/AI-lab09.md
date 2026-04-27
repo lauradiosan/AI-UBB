@@ -22,13 +22,11 @@ Dezvoltarea sistemelor care învaţă singure. Probleme de tip clasificare din d
 
 ## :bulb: Probleme
 
-In urma unor inundatii, o parte din versurile unor poezii  s-au degradat. 
-
-1. Folositi un LLM pentru a completa versurile lipsa (avand in vedere ca primul vers din fiecare strofa s-a pastrat intact)
+In Melk, in urma unor inundatii produse de Dunare, o parte din versurile unor poezii (aflate in volumele de poezii din biblioteca) s-au degradat. Folositi un LLM pentru a completa versurile lipsa (avand in vedere ca primul vers din fiecare strofa s-a pastrat intact).
 
 a. folositi un LLM pre-antrenat (pe texte generale) si analizati influenta parametrilor (inclusiv a tokenizer-ului) asupra calitatii textului generat
 
-b. folositi un LLM pre-antrenat si adaptat la un corpus de poezii si analizati influenta parametrilor (inclusiv a tokenizer-ului) asupra calitatii textului generat
+b. folositi un LLM pre-antrenat si adaptat la un corpus de poezii si analizati influenta parametrilor (inclusiv a tokenizer-ului) asupra calitatii textului generat. Adaptarea se realizeaza printr-un proces de fine-tuning pe un corpus de poezii (deci pipeline-ul de optimizare trebuie dezvoltat si implementat de catre student).
 
 c. Incercati sa raspundeti la urmatoarele intrebari: 
 - c.1 care sunt diferentele de calitate intre textele generate cu cele doua tipuri de LLM-uri?
@@ -45,7 +43,7 @@ c. Incercati sa raspundeti la urmatoarele intrebari:
 Specificați, implementați și testați subalgoritmii necesari rezolvarii problemelor.
 
 ## :hourglass: Termen de predare 
-Laborator 11
+Laborator 10
 
 ## :moneybag: Evaluarea
 
