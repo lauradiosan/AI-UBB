@@ -207,7 +207,7 @@
     <td>
         <p>Lab11 - Optimisation by EAs
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab11/AI-lab11.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/4sPOWGUD" target="_blank">[assignment]</a> -->
+            <a href="https://classroom.github.com/a/4sPOWGUD" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>11 - 15 mai</p></td>
