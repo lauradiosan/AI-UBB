@@ -36,7 +36,7 @@ c. Incercati sa raspundeti la urmatoarele intrebari:
 - c.5 cum se poate "personaliza" LLM pentru a genera versuri in stil de pastel (cu accent pe frumusetea naturii)?
 
 
-2. Salvați poezia care vi se pare cea mai reușită si trimiteti-o unui prieten.
+Salvați poezia care vi se pare cea mai reușită si trimiteti-o unui prieten.
 
 ## :memo:  Cerinte 
 

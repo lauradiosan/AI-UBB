@@ -166,8 +166,7 @@
     <td><p>9</p></td>
     <td>
         <p> Reinforcement Learning
-            <!-- Machine Learning - Decision Trees, KNN, kMeans 
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/08_search_uninformed.pdf" target="_blank">[link] -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/09_RL.pdf" target="_blank">[link] 
         </p>
     </td>
     <td>
@@ -190,9 +189,9 @@
         </p>
     </td>
     <td>
-        <p>Project presentations – exploratory data analysis
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/projects.md" target="_blank">[proposed projects]</a>
-            <a href="https://classroom.github.com/a/Qzm42lMB" target="_blank">[assignment]</a> -->
+        <p> Lab 10 - Reinforcement learning
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/AI-lab10.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/BtuebhQJ" target="_blank">[assignment]</a>
         </p>
     </td>
     <td><p>4 - 8 mai</p></td>
@@ -206,9 +205,9 @@
         <p> Algoritmi de cautare  - Algoritmi Evolutivi </p>
     </td>
     <td>
-        <p>Lab10 - Optimisation by EAs
-            <!-- <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab10/AI-lab10.md" target="_blank">[cerinte]</a>
-            <a href="https://classroom.github.com/a/PcBVZx5x" target="_blank">[assignment]</a> -->
+        <p>Lab11 - Optimisation by EAs
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab11/AI-lab11.md" target="_blank">[cerinte]</a>
+            <a href="https://classroom.github.com/a/4sPOWGUD" target="_blank">[assignment]</a> -->
         </p>
     </td>
     <td><p>11 - 15 mai</p></td>
@@ -219,10 +218,10 @@
 <tr>
     <td><p>12</p></td>
     <td>
-        <p> Alti algoritmi de Machine Learning </p>
+        <p> Alti algoritmi de Machine Learning (Decision Trees, KNN, kMeans)</p>
     </td>
     <td>
-        <p>Lab12 - Reinforcement learning</p>
+        <p>Project - stage1</p>
     </td>
     <td><p>18 – 22 mai</p></td>
     <td><p>- </p></td>
