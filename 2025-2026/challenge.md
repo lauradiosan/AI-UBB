@@ -12,6 +12,6 @@ Cum funcționează: Veți primi un set de probleme de Machine Learning pe care v
 
 Ce aveți de câștigat: Cei mai buni participanți vor fi recompensați cu premii speciale. 
 
-Înscrierile sunt deschise până în 20 mai 2026 [link](https://forms.office.com/Pages/ResponsePage.aspx?id=7WNIWshA1U-CmPv9t_EwlUylymXQE1NJkLo1BHf3CqRUMDRHSEY4NEdFWDJPTlFYWVZKOEhGM1BXMC4u)
+Înscrierile sunt deschise până în 19 mai 2026 [link](https://forms.office.com/Pages/ResponsePage.aspx?id=7WNIWshA1U-CmPv9t_EwlUylymXQE1NJkLo1BHf3CqRUMDRHSEY4NEdFWDJPTlFYWVZKOEhGM1BXMC4u)
 
 Vă așteptăm cu drag. O să merite, promitem. 🚀 
