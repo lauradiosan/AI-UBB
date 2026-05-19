@@ -10,6 +10,6 @@ Dragi studenți,
 
 **Cum funcționează**: Veți primi un set de probleme de Machine Learning pe care va trebui să le rezolvați în timp real. Dezvoltați soluții complete — de la explorarea datelor la antrenarea și optimizarea modelelor. Totul se desfășoară într-un sandbox controlat: aceleași resurse, aceleași condiții, aceleași restricții pentru toată lumea. Mai multe detalii pot fi conultate [aici](https://judge.nitro-ai.org/competitions/ceoai/ceoai-2026-practice-1). Ierarhizarea soluțiilor se va face în funcție de performanța acestora, iar cele mai bune vor fi recompensate.
 
-**Înscrierile** sunt deschise până în 19 mai 2026 [link formular](https://forms.office.com/Pages/ResponsePage.aspx?id=7WNIWshA1U-CmPv9t_EwlUylymXQE1NJkLo1BHf3CqRUMDRHSEY4NEdFWDJPTlFYWVZKOEhGM1BXMC4u)
+**Înscrierile** sunt deschise până în 22 mai 2026 [link formular](https://forms.office.com/Pages/ResponsePage.aspx?id=7WNIWshA1U-CmPv9t_EwlUylymXQE1NJkLo1BHf3CqRUMDRHSEY4NEdFWDJPTlFYWVZKOEhGM1BXMC4u)
 
 Vă așteptăm cu drag! 🚀 
