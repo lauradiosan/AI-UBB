@@ -205,7 +205,7 @@
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_search_uninformed.pdf" target="_blank">[link] </a>
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA.pdf" target="_blank">[link] </a>        
             <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA_suplim.pdf" target="_blank">[link] </a>
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_PSO_ACO.pdf" target="_blank">[link] </a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_local_search_PSO_ACO.pdf" target="_blank">[link] </a>
     </td>
     <td>
         <p>Lab11 - Optimisation by EAs
