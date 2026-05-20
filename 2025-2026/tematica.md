@@ -189,7 +189,7 @@
     </td>
     <td>
         <p> Lab 10 - Reinforcement learning
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/AI-lab10.md" target="_blank">[cerinte]</a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab10/AI-lab10.md" target="_blank">[cerinte]</a>
             <a href="https://classroom.github.com/a/BtuebhQJ" target="_blank">[assignment]</a>
         </p>
     </td>
