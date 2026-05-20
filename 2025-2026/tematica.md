@@ -184,8 +184,7 @@
     <td><p>10</p></td>
     <td>
         <p> Agentic AI
-            <!-- Algoritmi de cautare  - Algoritmi Evolutivi
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/09_localSarch_EA.pdf" target="_blank">[link] -->
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/10_AI-Agents.pdf" target="_blank">[link] </a>
         </p>
     </td>
     <td>
@@ -203,6 +202,10 @@
     <td><p>11</p></td>
     <td>
         <p> Algoritmi de cautare  - Algoritmi Evolutivi </p>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_search_uninformed.pdf" target="_blank">[link] </a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA.pdf" target="_blank">[link] </a>        
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA_suplim.pdf" target="_blank">[link] </a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_PSO_ACO.pdf" target="_blank">[link] </a>
     </td>
     <td>
         <p>Lab11 - Optimisation by EAs
