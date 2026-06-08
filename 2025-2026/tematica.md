@@ -184,12 +184,14 @@
     <td><p>10</p></td>
     <td>
         <p> Agentic AI
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/10_AI-Agents.pdf" target="_blank">[link] </a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/10_AI-Agents.pdf" target="_blank">[link]
+            <!-- Algoritmi de cautare  - Algoritmi Evolutivi
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/09_localSarch_EA.pdf" target="_blank">[link] -->
         </p>
     </td>
     <td>
         <p> Lab 10 - Reinforcement learning
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/lab10/AI-lab10.md" target="_blank">[cerinte]</a>
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/labs/AI-lab10.md" target="_blank">[cerinte]</a>
             <a href="https://classroom.github.com/a/BtuebhQJ" target="_blank">[assignment]</a>
         </p>
     </td>
@@ -201,11 +203,10 @@
 <tr>
     <td><p>11</p></td>
     <td>
-        <p> Algoritmi de cautare  - Algoritmi Evolutivi </p>
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_search_uninformed.pdf" target="_blank">[uninformed search] </a>
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA.pdf" target="_blank">[EAs] </a>        
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA_suplim.pdf" target="_blank">[EAs-supplim] </a>
-            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_local_search_PSO_ACO.pdf" target="_blank">[PSO&ACO] </a>
+        <p> Algoritmi de cautare  - Algoritmi Evolutivi 
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA.pdf" target="_blank">[link]
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_localSearch_EA_suplim.pdf" target="_blank">[link2]
+        </p>
     </td>
     <td>
         <p>Lab11 - Optimisation by EAs
@@ -221,7 +222,9 @@
 <tr>
     <td><p>12</p></td>
     <td>
-        <p> Alti algoritmi de Machine Learning (Decision Trees, KNN, kMeans)</p>
+      <p> ACO 
+            <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/11_local_search_PSO_ACO.pdf" target="_blank">[link]
+        </p>
     </td>
     <td>
         <p>Project - stage1</p>
@@ -234,7 +237,9 @@
 <tr>
     <td><p>13</p></td>
     <td>
-        <p> Etica, incredere si AI </p>
+        <p> Alti algoritmi de Machine Learning (Decision Trees, KNN, kMeans)
+        <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/12_ML_DTs.pdf" target="_blank">[link]
+        </p>
     </td>
     <td>
         <p> - </p>
@@ -247,7 +252,9 @@
 <tr>
     <td><p>14</p></td>
     <td>
-        <p> Explicabilitate si cauzalitate in AI </p>
+        <p> Etica in AI 
+        <a href="https://github.com/lauradiosan/AI-UBB/blob/main/2025-2026/lectures/13_fairness.pdf" target="_blank">[link]
+        </p>
     </td>
     <td>
         <p>Project presentations – model analysis, teaser
